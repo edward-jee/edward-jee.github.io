@@ -232,8 +232,7 @@ Table of Contents
 # OKR
 
 * [John Doerr's speech about OKRs](https://www.ted.com/talks/john_doerr_why_the_secret_to_success_is_setting_the_right_goals)
-    * [더 나은 한국어 해석](https://www.linkedin.com/pulse/korean-translation-john-doerrs-speech-okrs-edward-jee/)  
-        (**주의:** Edward Jee는 SNS를 잘 안 쓰고 Linkedin follower 수가 올라가는 걸 좋아하지 않으므로, 답글이나 '좋아요'를 추가하시지 말아 주세요.)
+    * [더 나은 한국어 해석](okr_speech_translation.md)
 * [Google's guide at re:Work](https://rework.withgoogle.com/guides/set-goals-with-okrs) (한국어로 된 해석: [1](https://infuture.kr/1630), [2](https://infuture.kr/1631), [3](https://infuture.kr/1632), [4](https://infuture.kr/1633) / cached: [1](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EB%AA%A9%ED%91%9C%EC%84%A4%EC%A0%95_%201.%20%ED%95%B5%EC%8B%AC%EB%82%B4%EC%9A%A9%20%EA%B0%9C%EA%B4%84.pdf), [2](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EB%AA%A9%ED%91%9C%EC%84%A4%EC%A0%95_%202.%20OKRs%EB%8A%94%20%EC%84%B1%EA%B3%BC%EA%B4%80%EB%A6%AC%EB%8F%84%EA%B5%AC%EA%B0%80%20%EC%95%84%EB%8B%88%EB%9D%BC%20%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5%EB%8F%84%EA%B5%AC.pdf), [3](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EB%AA%A9%ED%91%9C%EC%84%A4%EC%A0%95_%203.%20OKRs%20%EC%88%98%EB%A6%BD%EC%9D%98%20%ED%8C%81%EA%B3%BC%20%ED%94%BC%ED%95%B4%EC%95%BC%20%ED%95%A0%20%EC%98%A4%EB%A5%98.pdf), [4](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EB%AA%A9%ED%91%9C%EC%84%A4%EC%A0%95_%204.%20%ED%8C%80%20OKRs%20%EC%88%98%EB%A6%BD%EA%B3%BC%20%EB%93%B1%EA%B8%89%20%EA%B2%B0%EC%A0%95.pdf))
 * [한국 기업이 구글식 성과평가? 무조건 따라하지 말아라](https://www.joongang.co.kr/article/23795521)
     * 회사가 목표(Objective)를 설정하면 부서와 직원들이 자신들의 목표를 직접 설정한다. 국내 기업들이 많이 쓰는 핵심성과지표(KPI)처럼 하달식으로 정하지 않는 것이 핵심이다. 황 대표는 "KPI로 전년 대비 3%, 5% 더 달성 하네 마네 해서는 구글·애플·아마존과 같은 혁신 성장을 시도조차 할 수 없을 것"이라고 꼬집었다.
@@ -261,6 +260,7 @@ Table of Contents
 
 # Miscellaneous articles
 
+* [How do Google engineers work?](googe_engineering.md)
 * [The law of leaky abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - Joel Spolsky (Wikipedia page: [link](https://en.wikipedia.org/wiki/Leaky_abstraction))
 * [Teach yourself programming in ten years](https://norvig.com/21-days.html) - Peter Norvig
 * [The universal design pattern](http://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html) - Steve Yegge (Reddit thread: [link](https://www.reddit.com/r/programming/comments/786qn/the_universal_design_pattern_steve_yegge/))
