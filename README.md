@@ -1,3 +1,3 @@
 Edward Jee's Github Pages
 =========================
-* [Favorite reading materials](reading-materials.md)
+* [Favorite reading materials](reading_materials.md)
