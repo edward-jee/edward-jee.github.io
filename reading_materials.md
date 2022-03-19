@@ -1,9 +1,6 @@
 Edward Jee's favorite reading materials
 =======================================
 
-Table of Contents
-{:toc}
-
 # Documentation
 
 * [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) ([cached](attachments/Design%20Docs%20at%20Google.pdf))
@@ -260,7 +257,7 @@ Table of Contents
 
 # Miscellaneous articles
 
-* [How do Google engineers work?](googe_engineering.md)
+* [How do Google engineers work?](google_engineering.md)
 * [The law of leaky abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - Joel Spolsky (Wikipedia page: [link](https://en.wikipedia.org/wiki/Leaky_abstraction))
 * [Teach yourself programming in ten years](https://norvig.com/21-days.html) - Peter Norvig
 * [The universal design pattern](http://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html) - Steve Yegge (Reddit thread: [link](https://www.reddit.com/r/programming/comments/786qn/the_universal_design_pattern_steve_yegge/))
