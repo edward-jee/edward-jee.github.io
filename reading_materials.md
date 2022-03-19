@@ -1,5 +1,29 @@
 Edward Jee's favorite reading materials
-=======================================
+
+Table of Contents
+1. [Documentation](#documentation)
+1. [Machine learning](#machine-learning)
+1. [Math](#math)
+1. [Coding style](#coding-style)
+1. [Software design and programming](#software-design-and-programming)
+1. [Algorithms](#algorithms)
+1. [Computer architecture](#computer-architecture)
+1. [Gotbolt - Compiler Explorer](#godbolt---compiler-explorer)
+1. [Performance optimization](#performance-optimization)
+1. [Programming tips and techniques](#programming-tips-and-techniques)
+1. [Web application development](#web-application-development)
+1. [Distributed systems and data engineering](#distributed-systems-and-data-engineering)
+1. [C++](#c)
+1. [Java](#java)
+1. [Open source projects](#open-source-projects)
+1. [Tools](#tools)
+1. [Productivity](#productivity)
+1. [Engineering management](#engineering-management)
+1. [Product management](#product-management)
+1. [OKR](#okr)
+1. [Hiring](#hiring)
+1. [Decision making](#decision-making)
+1. [Miscellaneous articles](#miscellaneous-articles)
 
 # Documentation
 
