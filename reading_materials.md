@@ -1,14 +1,16 @@
-  Edward Jee's favorite reading materials
+Edward Jee's favorite reading materials
+=======================================
 
-Documentation
-=============
+Table of Contents
+{:toc}
+
+# Documentation
 
 * [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) ([cached](attachments/Design%20Docs%20at%20Google.pdf))
 * [A Quora answer about how Google documents and reviews engineering designs](https://www.quora.com/How-do-teams-in-big-companies-like-Facebook-do-feature-designs-and-design-reviews/answer/J%C3%A9r%C3%B4me-Cukier) ([cached](attachments/J%C3%A9r%C3%B4me%20Cukier%27s%20answer%20to%20How%20do%20teams%20in%20big%20companies%20like%20Facebook%20do%20feature%20designs%20and%20design%20reviews_%20-%20Quora.pdf))
 * [How do I write engineering design docs in Google: an example](https://luanjunyi.medium.com/how-do-i-write-engineering-design-docs-in-google-an-example-f19febe0297c) ([cached](attachments/How%20do%20I%20write%20engineering%20design%20docs%20in%20Google%20_%20Medium.pdf)) ([예제의 사본](https://docs.google.com/document/d/1VGCPl-oYTDYP9YW1dzCH5nRr0iffxM4oLihjut4hHKs))
 
-Machine learning
-================
+# Machine learning
 
 * [Making Friends with Machine Learning](https://towardsdatascience.com/making-friends-with-machine-learning-5e28d5205a29) - Cassie Kozyrkov
 * [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/#prml-book) - Christopher M. Bishop (Summaries in a Korean blog: [link](http://norman3.github.io/prml/))
@@ -24,29 +26,25 @@ Machine learning
     * [Reinforcement learning explained](https://www.oreilly.com/radar/reinforcement-learning-explained/)
     * [Reinforcement Learning Made Simple](https://towardsdatascience.com/reinforcement-learning-made-simple-part-1-intro-to-basic-concepts-and-terminology-1d2a87aa060)
 
-Math
-====
+# Math
 
 * [하버드 확률론 기초](https://www.boostcourse.org/ai152) (한글 자막 및 한글 가이드 있음) - [로그인 없이 보는 링크](https://www.boostcourse.org/ai152/joinLectures/195039)
 * [인공지능을 위한 선형대수](https://www.boostcourse.org/ai251) - [로그인 없이 보는 링크](https://www.boostcourse.org/ai251/joinLectures/195088)
 * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
-Coding style
-============
+# Coding style
 
 * [읽기 좋은 코드가 좋은 코드다](http://aladin.kr/p/KFsHD) (원서: [The Art of Readable Code](https://learning.oreilly.com/library/view/the-art-of/9781449318482/))
 * [Google Style Guides](https://google.github.io/styleguide/)
 * [Code Complete (2nd ed)](https://www.amazon.com/gp/product/0735619670/) (번역본: [link](http://aladin.kr/p/Ro9nt))
 
-Software design and programming
-===============================
+# Software design and programming
 
 * 리팩토링
 * 디자인 패턴
 * [The Architecture of Open Source Applications](http://aosabook.org/) (Joel Spolsky's blog article about it: [link](https://stackoverflow.blog/2011/06/22/se-podcast-09/))
 
-Algorithms
-==========
+# Algorithms
 
 * [한 권으로 그리는 컴퓨터 과학 로드맵](http://aladin.kr/p/61rhB) (원서: [Computer Science Distilled](https://code.energy/computer-science-distilled))
 * [쉽게 배우는 알고리즘](http://aladin.kr/p/JP43N) - 문병로 저
@@ -54,8 +52,7 @@ Algorithms
     * [Thomas Cormen's Quora page](https://www.quora.com/profile/Thomas-Cormen-1)
 * [P vs NP](https://ratsgo.github.io/data%20structure&algorithm/2017/11/30/NP/) - '[컴퓨터과학이 여는 세계](http://kwangkeunyi.snu.ac.kr/#books)'(이광근 저)에서 발췌 ([cached](attachments/P%2C%20NP%20%EB%AC%B8%EC%A0%9C%20%281%29%20%C2%B7%20ratsgo%27s%20blog.pdf))
 
-Computer architecture
-=====================
+# Computer architecture
 
 * [한 권으로 읽는 컴퓨터 구조와 프로그래밍](http://aladin.kr/p/IPd2v) (원서: [The Secret Life of Programs](https://nostarch.com/foundationsofcomp))
 * [Computer Systems: A Programmer’s Perspective](http://csapp.cs.cmu.edu/) (CS:APP)
@@ -74,41 +71,35 @@ Computer architecture
         * 이 글 나온 이후로 바뀐 것들에 대해선 [여기](https://stackoverflow.com/a/47714514) 참고
     * [Scott Meyers: Cpu Caches and Why You Care](https://youtu.be/WDIkqP4JbkE)
 
-Godbolt - Compiler Explorer
-===========================
+# Godbolt - Compiler Explorer
 
 * [What Everyone Should Know About How Amazing Compilers Are](https://cpponsea.uk/2019/sessions/keynote-what-everyone-should-know-about-how-amazing-compilers-are.html)
 * [What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid](https://youtu.be/bSkpMdDe4g4) (Slides: [link](https://github.com/CppCon/CppCon2017/tree/master/Keynotes/What%20Has%20My%20Compiler%20Done%20for%20Me%20Lately%20-%20Unbolting%20the%20Compiler%27s%20Lid))
 
-Performance optimization
-========================
+# Performance optimization
 
 * [Optimization manuals](https://agner.org/optimize/#manuals) - by [Agner Fog](https://agner.org/)
 * [Brendan Gregg](https://www.brendangregg.com/overview.html)
 * [Latency numbers every programmer should know](https://gist.github.com/jboner/2841832)
 
-Programming tips and techniques
-===============================
+# Programming tips and techniques
 
 * Bit manipulation: [http://graphics.stanford.edu/~seander/bithacks.html](http://graphics.stanford.edu/~seander/bithacks.html)
 * Hacker's Delight
 
-Web application development
-===========================
+# Web application development
 
 * [The Twelve-Factor App](https://12factor.net/) (한국어판: [link](https://12factor.net/ko/))
 * [React.js, 스프링 부트, AWS로 배우는 웹 개발 101](http://acornpub.co.kr/book/reactjs-springboot) - [김다정](https://cselabnotes.com/kr/sample-page/)
 
-Distributed systems and data engineering
-========================================
+# Distributed systems and data engineering
 
 * [Designing Data-Intensive Applications](https://dataintensive.net/)
     * [Korean version](http://aladin.kr/p/t1Nzd) / [a review](https://towardsdatascience.com/designing-data-intensive-applications-book-review-cc34ba1f90a7) / [concise video summary](https://www.youtube.com/watch?v=PdtlXdse7pw&list=PL4KdJM8LzAMecwInbBK5GJ3Anz-ts75RQ) / [SDML bookclub notes and videos](https://github.com/SanDiegoMachineLearning/bookclub/blob/master/designing-data-intensive-apps.md) / [author interview](https://www.youtube.com/watch?v=grGqCuTcu50) / [SDE Skills videos](https://www.youtube.com/watch?v=fxNn_CpzdB0&list=PLBtMh4xfa9FGWU4E4oP9uqHuSl9ht7wXD&index=38)
     * 분산 시스템과 현대적 데이터 엔지니어링의 이론적 토대를 배울 수 있는 책
     * FAANG의 system design 면접 준비에 좋다고 추천되는 책
 
-C++
-===
+# C++
 
 * 가장 많이 추천되는 책들인 [Effective 시리즈](https://www.aristeia.com/books.html) (한글 요약들 백업: [link](attachments/cppbooksummaries.zip))
     * Effective C++ ([한글 요약](http://ajwmain.iptime.org/programming/book_summary/%5B00%5Deffective_cpp/effective_cpp.html))
@@ -128,29 +119,25 @@ C++
 * [When a Microsecond Is an Eternity: High Performance Trading Systems in C++](https://youtu.be/NH1Tta7purM)
     * [한글 요약](https://velog.io/@wsong0101/%EB%86%92%EC%9D%80-%EC%84%B1%EB%8A%A5%EC%9D%98-C-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%94%A9-%EC%8B%9C%EC%8A%A4%ED%85%9C) (주의: 이 한글 블로그 글에 있는 비디오 링크는 잘못되었음. 윗 줄의 링크가 맞음) ([cached](attachments/%EB%86%92%EC%9D%80%20%EC%84%B1%EB%8A%A5%EC%9D%98%20C%2B%2B%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%94%A9%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf))
 
-Java
-====
+# Java
 
 * [Effective Java](https://www.oreilly.com/library/view/effective-java/9780134686097/) ([한글 ebook](http://aladin.kr/p/BfloN) / [한글 요약 블로그](https://icarus8050.tistory.com/category/Java/Effective%20Java) / [더 자세히 설명된 블로그](https://hirlawldo.tistory.com/category/%EA%B0%9C%EB%B0%9C/Effective%20Java) / [또 다른 블로그](https://developer-cheol.tistory.com/tag/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%EC%9E%90%EB%B0%94))
 * [Modern Java in Action](https://www.manning.com/books/modern-java-in-action) ([한글 요약 블로그](http://https//ckddn9496.tistory.com/category/Java/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98))
 * Spring 요약: [pjok1122/Spring-Summary](https://github.com/pjok1122/Spring-Summary)
 * [Java Concurrency](http://tutorials.jenkov.com/java-concurrency/index.html) - Jakob Jenkov ([일부 한글 번역](https://parkcheolu.tistory.com/category/Java/Concurrency))
 
-Open source projects
-====================
+# Open source projects
 
 * [Google's code search for their open source projects](https://cs.opensource.google/)
 * [Linux kernel](https://elixir.bootlin.com/)
 * [Chromium](https://www.chromium.org/Home) / [Chromium OS](https://www.chromium.org/chromium-os)
 
-Tools
-=====
+# Tools
 
 * CMake
     * [씹어먹는 C++](https://modoocode.com/332)
 
-Productivity
-============
+# Productivity
 
 * [Meetings That Don’t Suck](https://www.bringthedonuts.com/essays/meetings-that-dont-suck.html) - Ken Norton
     * 한 가지 추가하고 싶은 것: 모든 회의는 결과물이 있어야 한다. 결과물은 의사결정 또는 액션 아이템이다.
@@ -158,8 +145,7 @@ Productivity
 * [The Good Day Project](https://github.blog/2021-05-25-octoverse-spotlight-good-day-project/)
 * [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)
 
-Engineering management
-======================
+# Engineering management
 
 * [개발 7년차, 매니저 1년차](http://aladin.kr/p/4WyAq) (원서: [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/))
     * [한빛출판네트워크 편집자 Choice](https://www.hanbit.co.kr/channel/choice/editor_choice_view.html?cms_code=CMS9150073010)
@@ -186,8 +172,7 @@ Engineering management
 * [성공한 팀장들은 지독하게 솔직… 다만 직구 아닌 변화구로 말한다](https://web.archive.org/web/20200203171507/http://weeklybiz.chosun.com/site/data/html_dir/2019/09/26/2019092602017.html) ([cached](attachments/%5BWEEKLY%20BIZ%5D%20%EC%84%B1%EA%B3%B5%ED%95%9C%20%ED%8C%80%EC%9E%A5%EB%93%A4%EC%9D%80%20%EC%A7%80%EB%8F%85%ED%95%98%EA%B2%8C%20%EC%86%94%EC%A7%81%E2%80%A6%20%EB%8B%A4%EB%A7%8C%20%EC%A7%81%EA%B5%AC%20%EC%95%84%EB%8B%8C%20%EB%B3%80%ED%99%94%EA%B5%AC%EB%A1%9C%20%EB%A7%90%ED%95%9C%EB%8B%A4.pdf))
     * 평: 솔직한 피드백을 하되 기분 좋게 전달하는 방법이 있으리라 믿습니다.
 
-Product Management
-==================
+# Product Management
 
 * [실리콘밸리 51개 기업들이 말하는 프로덕트 매니저의 역할 9가지](http://blog.wishket.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-51%EA%B0%9C-%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EC%9D%98/) (영문 원문: [link](https://producthabits.com/product-manager-job-description/))
 * [채용 공고 뜯어보며 PM 직무 이해하기](http://https//brunch.co.kr/@moon9410/43)
@@ -244,8 +229,7 @@ Product Management
 * [Product Management for the Enterprise](https://medium.com/@BlairReeves/product-management-for-the-enterprise-f1118798376f)
 * [도그냥TV](https://www.youtube.com/channel/UCreMBpOzMfpoKTluWmPiesg)
 
-OKR
-===
+# OKR
 
 * [John Doerr's speech about OKRs](https://www.ted.com/talks/john_doerr_why_the_secret_to_success_is_setting_the_right_goals)
     * [더 나은 한국어 해석](https://www.linkedin.com/pulse/korean-translation-john-doerrs-speech-okrs-edward-jee/)  
@@ -260,15 +244,13 @@ OKR
 * [Are you doing OKRs right?](https://medium.com/range/are-you-doing-okrs-right-5ca1fa1e53d2) - Braden Kowitz
 * [The Tools Don't Matter](https://newsletter.bringthedonuts.com/p/the-tools-dont-matter) - Ken Norton
 
-Hiring
-======
+# Hiring
 
 * [Here's Google's Secret to Hiring the Best People](https://www.wired.com/2015/04/hire-like-google/) - from _[Work Rules!](https://www.workrules.net/)_ by Laszlo Bock ([cached](attachments/Here%27s%20Google%27s%20Secret%20to%20Hiring%20the%20Best%20People%20_%20WIRED.pdf))
 * [The Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel on Software (번역판: '[조엘 온 소프트웨어](http://www.acornpub.co.kr/book/joel-on-software)')
 * [Google's guide at re:Work](https://rework.withgoogle.com/subjects/hiring/) (한국어로 된 해석: [1](https://infuture.kr/1634), [2](https://infuture.kr/1635), [3](https://infuture.kr/1636), [4](https://infuture.kr/1637), [5](https://infuture.kr/1638), [6](https://infuture.kr/1639), [7](https://infuture.kr/1640), [8](https://infuture.kr/1641) / cached: [1](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EC%B1%84%EC%9A%A9_%201.%20%EC%A7%80%EC%9B%90%EC%9E%90%EC%9D%98%20%EA%B2%BD%ED%97%98%EC%97%90%20%EC%A3%BC%EC%9D%98%EB%A5%BC%20%EA%B8%B0%EC%9A%B8%EC%97%AC%EB%9D%BC.pdf), [2](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EC%B1%84%EC%9A%A9_%202.%20%EC%A7%80%EC%9B%90%EC%9E%90%EB%A5%BC%20%EA%B3%A0%EA%B0%9D%EC%B2%98%EB%9F%BC%20%EB%8C%80%ED%95%98%EB%9D%BC.pdf), [3](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EC%B1%84%EC%9A%A9_%203.%20%EC%B1%84%EC%9A%A9%EC%9C%84%EC%9B%90%ED%9A%8C%EB%A5%BC%20%ED%99%9C%EC%84%B1%ED%99%94%ED%95%98%EB%9D%BC.pdf), [4](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EC%B1%84%EC%9A%A9_%204.%20%EB%A9%B4%EC%A0%91%EA%B4%80%EC%9D%98%20%EC%9E%90%EC%9C%A0%EB%A1%9C%EC%9A%B4%20%EC%A7%88%EB%AC%B8%EC%9D%84%20%EA%B8%88%ED%95%98%EB%9D%BC.pdf), [5](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EC%B1%84%EC%9A%A9_%205.%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EC%A7%88%EB%AC%B8%EC%9D%84%20%EC%98%AC%EB%B0%94%EB%A5%B4%EA%B2%8C%20%ED%95%98%EB%9D%BC.pdf), [6](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EC%B1%84%EC%9A%A9_%206.%20%EC%B1%84%EC%9A%A9%20%EA%B3%B5%EA%B3%A0%EB%8A%94%20%ED%9A%8C%EC%82%AC%EC%9D%98%20%EC%B2%AB%EC%9D%B8%EC%83%81%EC%9D%B4%EB%8B%A4.pdf), [7](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EC%B1%84%EC%9A%A9_%207.%20%EC%9D%B4%EB%A0%A5%EC%84%9C%EB%A5%BC%20%EA%B3%B5%EC%A0%95%ED%95%98%EA%B2%8C%20%EA%B2%80%ED%86%A0%ED%95%98%EB%9D%BC.pdf), [8](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EC%B1%84%EC%9A%A9_%208.%20%EB%A9%B4%EC%A0%91%EA%B4%80%EB%93%A4%EC%9D%84%20%EC%B2%A0%EC%A0%80%ED%9E%88%20%ED%9B%88%EB%A0%A8%EC%8B%9C%EC%BC%9C%EB%9D%BC.pdf))
 
-Decision making
-===============
+# Decision making
 
 * [의사 결정의 심리적 편향을 없애라](https://dbr.donga.com/article/view/1306/article_no/2297/ac/magazine) ([cached](attachments/%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EC%9D%98%20%EC%8B%AC%EB%A6%AC%EC%A0%81%20%ED%8E%B8%ED%96%A5%EC%9D%84%20%EC%97%86%EC%95%A0%EB%9D%BC%20_%20%EB%A6%AC%EB%8D%94%EC%8B%AD%20_%20DBR.pdf)) - 틀 효과(framing effect), [확증 편향](https://ko.wikipedia.org/wiki/%ED%99%95%EC%A6%9D_%ED%8E%B8%ED%96%A5)(confirmation bias), 과신(overconfidence), [사후 판단 편향](https://brunch.co.kr/@summer9461/38)(hindsight bias)
 * [매몰 비용의 오류](https://www.hbrkorea.com/article/view/atype/di/category_id/1_1/article_no/464/page/1)(sunk cost fallacy)
@@ -277,8 +259,7 @@ Decision making
 * [모호성 회피](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/ambiguity-uncertainty-aversion/#:~:text=Ambiguity%20aversion%2C%20or%20uncertainty%20aversion,known%20risks%20over%20unknown%20risks.)(ambiguity aversion)
 * [슬기로운 부장생활 1](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=240839541)
 
-Miscellaneous articles
-======================
+# Miscellaneous articles
 
 * [The law of leaky abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - Joel Spolsky (Wikipedia page: [link](https://en.wikipedia.org/wiki/Leaky_abstraction))
 * [Teach yourself programming in ten years](https://norvig.com/21-days.html) - Peter Norvig
