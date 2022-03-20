@@ -1,4 +1,4 @@
-Edward Jee's favorite reading materials
+[Edward Jee](https://kr.linkedin.com/in/edward-jee-480225a?trk=pulse-article_main-author-card)'s favorite reading materials
 
 # Table of Contents
 
@@ -83,6 +83,7 @@ Edward Jee's favorite reading materials
 * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
     * [Thomas Cormen's Quora page](https://www.quora.com/profile/Thomas-Cormen-1)
 * [P vs NP](https://ratsgo.github.io/data%20structure&algorithm/2017/11/30/NP/) - '[컴퓨터과학이 여는 세계](http://kwangkeunyi.snu.ac.kr/#books)'(이광근 저)에서 발췌 ([cached](attachments/P%2C%20NP%20%EB%AC%B8%EC%A0%9C%20%281%29%20%C2%B7%20ratsgo%27s%20blog.pdf))
+* Algorithms ([free online materials(https://algs4.cs.princeton.edu/)) - Robert Sedgewick, Kevin Wayne
 
 [\[top\]](#table-of-contents)
 
@@ -303,6 +304,7 @@ Edward Jee's favorite reading materials
 * [Here's Google's Secret to Hiring the Best People](https://www.wired.com/2015/04/hire-like-google/) - from _[Work Rules!](https://www.workrules.net/)_ by Laszlo Bock ([cached](attachments/Here%27s%20Google%27s%20Secret%20to%20Hiring%20the%20Best%20People%20_%20WIRED.pdf))
 * [The Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel on Software (번역판: '[조엘 온 소프트웨어](http://www.acornpub.co.kr/book/joel-on-software)')
 * [Google's guide at re:Work](https://rework.withgoogle.com/subjects/hiring/) (한국어로 된 해석: [1회](https://infuture.kr/1634), [2회](https://infuture.kr/1635), [3회](https://infuture.kr/1636), [4회](https://infuture.kr/1637), [5회](https://infuture.kr/1638), [6회](https://infuture.kr/1639), [7회](https://infuture.kr/1640), [8회](https://infuture.kr/1641) / cached: [1회](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EC%B1%84%EC%9A%A9_%201.%20%EC%A7%80%EC%9B%90%EC%9E%90%EC%9D%98%20%EA%B2%BD%ED%97%98%EC%97%90%20%EC%A3%BC%EC%9D%98%EB%A5%BC%20%EA%B8%B0%EC%9A%B8%EC%97%AC%EB%9D%BC.pdf), [2회](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EC%B1%84%EC%9A%A9_%202.%20%EC%A7%80%EC%9B%90%EC%9E%90%EB%A5%BC%20%EA%B3%A0%EA%B0%9D%EC%B2%98%EB%9F%BC%20%EB%8C%80%ED%95%98%EB%9D%BC.pdf), [3회](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EC%B1%84%EC%9A%A9_%203.%20%EC%B1%84%EC%9A%A9%EC%9C%84%EC%9B%90%ED%9A%8C%EB%A5%BC%20%ED%99%9C%EC%84%B1%ED%99%94%ED%95%98%EB%9D%BC.pdf), [4회](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EC%B1%84%EC%9A%A9_%204.%20%EB%A9%B4%EC%A0%91%EA%B4%80%EC%9D%98%20%EC%9E%90%EC%9C%A0%EB%A1%9C%EC%9A%B4%20%EC%A7%88%EB%AC%B8%EC%9D%84%20%EA%B8%88%ED%95%98%EB%9D%BC.pdf), [5회](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EC%B1%84%EC%9A%A9_%205.%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EC%A7%88%EB%AC%B8%EC%9D%84%20%EC%98%AC%EB%B0%94%EB%A5%B4%EA%B2%8C%20%ED%95%98%EB%9D%BC.pdf), [6회](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EC%B1%84%EC%9A%A9_%206.%20%EC%B1%84%EC%9A%A9%20%EA%B3%B5%EA%B3%A0%EB%8A%94%20%ED%9A%8C%EC%82%AC%EC%9D%98%20%EC%B2%AB%EC%9D%B8%EC%83%81%EC%9D%B4%EB%8B%A4.pdf), [7회](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EC%B1%84%EC%9A%A9_%207.%20%EC%9D%B4%EB%A0%A5%EC%84%9C%EB%A5%BC%20%EA%B3%B5%EC%A0%95%ED%95%98%EA%B2%8C%20%EA%B2%80%ED%86%A0%ED%95%98%EB%9D%BC.pdf), [8회](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EC%B1%84%EC%9A%A9_%208.%20%EB%A9%B4%EC%A0%91%EA%B4%80%EB%93%A4%EC%9D%84%20%EC%B2%A0%EC%A0%80%ED%9E%88%20%ED%9B%88%EB%A0%A8%EC%8B%9C%EC%BC%9C%EB%9D%BC.pdf))
+* [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) (번역판: [코딩 인터뷰 완전 분석](https://blog.insightbook.co.kr/2017/08/07/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%99%84%EC%A0%84-%EB%B6%84%EC%84%9D-189%EA%B0%80%EC%A7%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%95%B4%EB%B2%95/))
 
 [\[top\]](#table-of-contents)
 
@@ -322,9 +324,17 @@ Edward Jee's favorite reading materials
 * [How do Google engineers work?](google_engineering.md)
 * [The law of leaky abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - Joel Spolsky (Wikipedia page: [link](https://en.wikipedia.org/wiki/Leaky_abstraction))
 * [Teach yourself programming in ten years](https://norvig.com/21-days.html) - Peter Norvig
+* [The Evolution of CPU Processing Power](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU) - YouTube
 * [The universal design pattern](http://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html) - Steve Yegge (Reddit thread: [link](https://www.reddit.com/r/programming/comments/786qn/the_universal_design_pattern_steve_yegge/))
 * [Good agile, bad agile](http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html) - Steve Yegge (Hacker News thread: [link](https://news.ycombinator.com/item?id=3616193))
 * [Andrew Ng: Forget about building an AI-first business. Start with a mission.](https://www.technologyreview.com/2021/03/26/1021258/ai-pioneer-andrew-ng-machine-learning-business/) ([cached](Learning%20about%20AI%20with%20Google%20Brain%20and%20Landing%20AI%20founder%20Andrew%20Ng%20_%20MIT%20Technology%20Review.pdf))
 * [Andrew Ng Launches A Campaign For Data-Centric AI](https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/) ([cached](attachments/Andrew%20Ng%20Launches%20A%20Campaign%20For%20Data-Centric%20AI.pdf))
+* [A Beginner's Guide to Scaling to 11M+ Users on Amazon's AWS](https://news.ycombinator.com/item?id=10885727) (Related [video 1](https://youtu.be/4Lt8eOuS9zU) / [video 2](https://youtu.be/Ma3xWDXTxRg))
+* [Designing Uber](http://highscalability.com/blog/2022/1/25/designing-uber.html)
+* [Designing Netflix](http://highscalability.com/blog/2021/12/13/designing-netflix.html)
+* [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1)
+* [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Xinyu LIU ([cached](attachments/algoxy-en.pdf))
+* [Isomorphism - Mathematics of Programming](https://github.com/liuxinyu95/unplugged) - Xinyu LIU ([cached](attachments/unplugged-en.pdf))
+* [Do Not Use MSA - 마이크로서비스 아키텍처가 꼭 필요한가요?](https://www.samsungsds.com/kr/insights/msa.html) ([cached](attachments/Do%20Not%20Use%20MSA%20-%20마이크로서비스%20아키텍처가%20꼭%20필요한가요_.pdf) / [alt.link](https://s-core.co.kr/insight/view/do-not-use-msa-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98%ea%b0%80-%ea%bc%ad-%ed%95%84%ec%9a%94%ed%95%9c%ea%b0%80%ec%9a%94/))
 
 [\[top\]](#table-of-contents)
