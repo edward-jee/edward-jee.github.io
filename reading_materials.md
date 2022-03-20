@@ -327,8 +327,6 @@
 * [The Evolution of CPU Processing Power](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU) - YouTube
 * [The universal design pattern](http://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html) - Steve Yegge (Reddit thread: [link](https://www.reddit.com/r/programming/comments/786qn/the_universal_design_pattern_steve_yegge/))
 * [Good agile, bad agile](http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html) - Steve Yegge (Hacker News thread: [link](https://news.ycombinator.com/item?id=3616193))
-* [Andrew Ng: Forget about building an AI-first business. Start with a mission.](https://www.technologyreview.com/2021/03/26/1021258/ai-pioneer-andrew-ng-machine-learning-business/) ([cached](attachments/Learning%20about%20AI%20with%20Google%20Brain%20and%20Landing%20AI%20founder%20Andrew%20Ng%20_%20MIT%20Technology%20Review.pdf))
-* [Andrew Ng Launches A Campaign For Data-Centric AI](https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/) ([cached](attachments/Andrew%20Ng%20Launches%20A%20Campaign%20For%20Data-Centric%20AI.pdf))
 * [A Beginner's Guide to Scaling to 11M+ Users on Amazon's AWS](https://news.ycombinator.com/item?id=10885727) (Related [video 1](https://youtu.be/4Lt8eOuS9zU) / [video 2](https://youtu.be/Ma3xWDXTxRg))
 * [Designing Uber](http://highscalability.com/blog/2022/1/25/designing-uber.html)
 * [Designing Netflix](http://highscalability.com/blog/2021/12/13/designing-netflix.html)
@@ -336,5 +334,8 @@
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Xinyu LIU ([cached](attachments/algoxy-en.pdf))
 * [Isomorphism - Mathematics of Programming](https://github.com/liuxinyu95/unplugged) - Xinyu LIU ([cached](attachments/unplugged-en.pdf))
 * [Do Not Use MSA - 마이크로서비스 아키텍처가 꼭 필요한가요?](https://www.samsungsds.com/kr/insights/msa.html) ([cached](attachments/Do%20Not%20Use%20MSA%20-%20마이크로서비스%20아키텍처가%20꼭%20필요한가요_.pdf) / [alt.link](https://s-core.co.kr/insight/view/do-not-use-msa-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98%ea%b0%80-%ea%bc%ad-%ed%95%84%ec%9a%94%ed%95%9c%ea%b0%80%ec%9a%94/))
+* [Andrew Ng: Forget about building an AI-first business. Start with a mission.](https://www.technologyreview.com/2021/03/26/1021258/ai-pioneer-andrew-ng-machine-learning-business/) ([cached](attachments/Learning%20about%20AI%20with%20Google%20Brain%20and%20Landing%20AI%20founder%20Andrew%20Ng%20_%20MIT%20Technology%20Review.pdf))
+* [Andrew Ng Launches A Campaign For Data-Centric AI](https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/) ([cached](attachments/Andrew%20Ng%20Launches%20A%20Campaign%20For%20Data-Centric%20AI.pdf))
+* [Failure of IBM Watson](ibm_watson_failure.md) (articles in English and Korean)
 
 [\[top\]](#table-of-contents)
