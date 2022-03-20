@@ -16,10 +16,12 @@ https://www.mmm-online.com/home/channel/features/where-watson-went-wrong/)
 
 Artiles (Korean):
 
+* [뜨거워지는 헬스케어 시장…‘아마존케어’에 관심 집중](
+https://www.ddaily.co.kr/news/article/?no=230943)
 * [‘의학의 미래’ IBM 왓슨헬스 수익 창출 실패, 결국 매각](
 https://www.chosun.com/economy/tech_it/2022/01/24/WKC45K6P75AWTP3AMC2Q7SFZZE/)
 * [IBM, 의료AI ‘왓슨’ 헐값 매각… 여전히 풀리지 않는 의문](
-http://m.ddaily.co.kr/m/m_article/?no=229868)
+https://www.ddaily.co.kr/news/article/?no=229868)
 * [돈 못버는 골칫덩이됐다… AI 선구자 ‘왓슨’의 몰락](
 https://www.chosun.com/economy/tech_it/2021/07/20/2ZE5MWL7MBBU5CGUUXXLUBD4PM/)
 
