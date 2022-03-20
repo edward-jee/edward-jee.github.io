@@ -83,7 +83,7 @@
 * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
     * [Thomas Cormen's Quora page](https://www.quora.com/profile/Thomas-Cormen-1)
 * [P vs NP](https://ratsgo.github.io/data%20structure&algorithm/2017/11/30/NP/) - '[컴퓨터과학이 여는 세계](http://kwangkeunyi.snu.ac.kr/#books)'(이광근 저)에서 발췌 ([cached](attachments/P%2C%20NP%20%EB%AC%B8%EC%A0%9C%20%281%29%20%C2%B7%20ratsgo%27s%20blog.pdf))
-* Algorithms ([free online materials(https://algs4.cs.princeton.edu/)) - Robert Sedgewick, Kevin Wayne
+* Algorithms ([free online materials](https://algs4.cs.princeton.edu/)) - Robert Sedgewick, Kevin Wayne
 
 [\[top\]](#table-of-contents)
 
@@ -327,7 +327,7 @@
 * [The Evolution of CPU Processing Power](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU) - YouTube
 * [The universal design pattern](http://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html) - Steve Yegge (Reddit thread: [link](https://www.reddit.com/r/programming/comments/786qn/the_universal_design_pattern_steve_yegge/))
 * [Good agile, bad agile](http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html) - Steve Yegge (Hacker News thread: [link](https://news.ycombinator.com/item?id=3616193))
-* [Andrew Ng: Forget about building an AI-first business. Start with a mission.](https://www.technologyreview.com/2021/03/26/1021258/ai-pioneer-andrew-ng-machine-learning-business/) ([cached](Learning%20about%20AI%20with%20Google%20Brain%20and%20Landing%20AI%20founder%20Andrew%20Ng%20_%20MIT%20Technology%20Review.pdf))
+* [Andrew Ng: Forget about building an AI-first business. Start with a mission.](https://www.technologyreview.com/2021/03/26/1021258/ai-pioneer-andrew-ng-machine-learning-business/) ([cached](attachments/Learning%20about%20AI%20with%20Google%20Brain%20and%20Landing%20AI%20founder%20Andrew%20Ng%20_%20MIT%20Technology%20Review.pdf))
 * [Andrew Ng Launches A Campaign For Data-Centric AI](https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/) ([cached](attachments/Andrew%20Ng%20Launches%20A%20Campaign%20For%20Data-Centric%20AI.pdf))
 * [A Beginner's Guide to Scaling to 11M+ Users on Amazon's AWS](https://news.ycombinator.com/item?id=10885727) (Related [video 1](https://youtu.be/4Lt8eOuS9zU) / [video 2](https://youtu.be/Ma3xWDXTxRg))
 * [Designing Uber](http://highscalability.com/blog/2022/1/25/designing-uber.html)
