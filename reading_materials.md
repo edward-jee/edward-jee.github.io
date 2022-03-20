@@ -54,8 +54,8 @@ Edward Jee's favorite reading materials
 
 # Basic math
 
-* [Statistics 110, Harvard](https://www.boostcourse.org/ai152) (한글 자막 및 한글 가이드 있음) - [Direct links (no sign-in)](https://www.boostcourse.org/ai152/joinLectures/195039)
-* [인공지능을 위한 선형대수](https://www.boostcourse.org/ai251) - [Direct links (no sign-in)](https://www.boostcourse.org/ai251/joinLectures/195088)
+* [Statistics 110, Harvard](https://www.boostcourse.org/ai152) (한글 자막 및 한글 가이드 있음) - [Direct link (no sign-in)](https://www.boostcourse.org/ai152/joinLectures/195039)
+* [인공지능을 위한 선형대수](https://www.boostcourse.org/ai251) - [Direct link (no sign-in)](https://www.boostcourse.org/ai251/joinLectures/195088)
 * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 [\[top\]](#table-of-contents)
