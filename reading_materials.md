@@ -21,6 +21,7 @@
 1. [Productivity](#productivity)
 1. [Engineering management](#engineering-management)
 1. [Product management](#product-management)
+    1. [How to write a PRD](#how-to-write-a-prd)
 1. [OKR](#okr)
 1. [Hiring](#hiring)
 1. [Decision making](#decision-making)
@@ -31,6 +32,7 @@
 * [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) ([cached](attachments/Design%20Docs%20at%20Google.pdf))
 * [A Quora answer about how Google documents and reviews engineering designs](https://www.quora.com/How-do-teams-in-big-companies-like-Facebook-do-feature-designs-and-design-reviews/answer/J%C3%A9r%C3%B4me-Cukier) ([cached](attachments/J%C3%A9r%C3%B4me%20Cukier%27s%20answer%20to%20How%20do%20teams%20in%20big%20companies%20like%20Facebook%20do%20feature%20designs%20and%20design%20reviews_%20-%20Quora.pdf))
 * [How do I write engineering design docs in Google: an example](https://luanjunyi.medium.com/how-do-i-write-engineering-design-docs-in-google-an-example-f19febe0297c) ([cached](attachments/How%20do%20I%20write%20engineering%20design%20docs%20in%20Google%20_%20Medium.pdf))
+* Chapter 10 of [Software Engineering at Google](https://abseil.io/resources/swe-book)
 
 [\[top\]](#table-of-contents)
 
@@ -266,21 +268,22 @@
 * [Product managers for the digital world](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/product-managers-for-the-digital-world) (참고: [PM유형테스트](https://brunch.co.kr/@windydog/423))
 * [Rework](https://basecamp.com/books/rework) (번역판: [리워크](http://aladin.kr/p/IbO0y))
 * [When should you a hire a Product Manager?](https://medium.com/once-upon-a-team/when-should-you-a-hire-a-product-manager-91e393862150) (한글 번역: [언제 프로덕트 매니저를 채용해야 할까?](https://webuildproduct.com/%EC%96%B8%EC%A0%9C-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%A5%BC-%EC%B1%84%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-ca5fdf076206))
-* How to write a PRD
-    * [구글 프로덕트 매니저가 알려주는 기획서 작성 꿀팁](https://brunch.co.kr/@lulina724/26)
-    * [Need more than a PRD? Functional specs to the rescue](https://productmanagementtips.com/2007/11/12/functionalspecs/) - Gopal Shenoy
-    * [On Writing Product Spec](https://goberoi.com/on-writing-product-specs-5ca697b992fd) - Gaurav Oberoi (한글 번역: [프로덕트 스펙 문서 작성법](https://brunch.co.kr/@hj-kang/2))
-    * [How to Write a Good PRD](https://svpg.com/assets/Files/goodprd.pdf) - Martin Cagan
-    * [How to Write a Product Requirements Document - With Examples](https://www.perforce.com/blog/alm/how-write-product-requirements-document-prd) (at Perforce blog)
-    * [Product Hunt](https://docs.google.com/document/d/1yrU5F6Gxhkfma91wf_IbZfexw8_fahbGQLW3EvwdfQI/) example
-    * Joel Spolsky's Painless Functional Specifications: [part 1](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/), [part 2](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/), [part 3](https://www.joelonsoftware.com/2000/10/04/painless-functional-specifications-part-3-but-how/), [part 4](https://www.joelonsoftware.com/2000/10/15/painless-functional-specifications-part-4-tips/)
-    * [My favorite product management templates](https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37) - Lenny Rachitsky
-* [What is a project manager? The lead role for project success](https://www.cio.com/article/230682/what-is-a-project-manager-the-lead-role-for-project-success.html)
-* [Project management for non-project managers](https://www.atlassian.com/project-management)
-* [PM은 리더가 아니다?··· 프로젝트 관리자들의 8가지 착각](https://www.ciokorea.com/news/146190)
-* [프로젝트 관리에 관한 그릇된 통념 12가지](https://www.ciokorea.com/news/192744)
-* [Product Management for the Enterprise](https://medium.com/@BlairReeves/product-management-for-the-enterprise-f1118798376f)
-* [도그냥TV](https://www.youtube.com/channel/UCreMBpOzMfpoKTluWmPiesg)
+* Miscellaneous posts
+    * [What is a project manager? The lead role for project success](https://www.cio.com/article/230682/what-is-a-project-manager-the-lead-role-for-project-success.html)
+    * [Project management for non-project managers](https://www.atlassian.com/project-management)
+    * [PM은 리더가 아니다?··· 프로젝트 관리자들의 8가지 착각](https://www.ciokorea.com/news/146190)
+    * [프로젝트 관리에 관한 그릇된 통념 12가지](https://www.ciokorea.com/news/192744)
+    * [Product Management for the Enterprise](https://medium.com/@BlairReeves/product-management-for-the-enterprise-f1118798376f)
+    * [도그냥TV](https://www.youtube.com/channel/UCreMBpOzMfpoKTluWmPiesg)
+## How to write a PRD
+* [구글 프로덕트 매니저가 알려주는 기획서 작성 꿀팁](https://brunch.co.kr/@lulina724/26)
+* [Need more than a PRD? Functional specs to the rescue](https://productmanagementtips.com/2007/11/12/functionalspecs/) - Gopal Shenoy
+* [On Writing Product Spec](https://goberoi.com/on-writing-product-specs-5ca697b992fd) - Gaurav Oberoi (한글 번역: [프로덕트 스펙 문서 작성법](https://brunch.co.kr/@hj-kang/2))
+* [How to Write a Good PRD](https://svpg.com/assets/Files/goodprd.pdf) - Martin Cagan
+* [How to Write a Product Requirements Document - With Examples](https://www.perforce.com/blog/alm/how-write-product-requirements-document-prd) (at Perforce blog)
+* [Product Hunt](https://docs.google.com/document/d/1yrU5F6Gxhkfma91wf_IbZfexw8_fahbGQLW3EvwdfQI/) example
+* Joel Spolsky's Painless Functional Specifications: [part 1](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/), [part 2](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/), [part 3](https://www.joelonsoftware.com/2000/10/04/painless-functional-specifications-part-3-but-how/), [part 4](https://www.joelonsoftware.com/2000/10/15/painless-functional-specifications-part-4-tips/)
+* [My favorite product management templates](https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37) - Lenny Rachitsky
 
 [\[top\]](#table-of-contents)
 
