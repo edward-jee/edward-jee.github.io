@@ -275,11 +275,13 @@
     * [프로젝트 관리에 관한 그릇된 통념 12가지](https://www.ciokorea.com/news/192744)
     * [Product Management for the Enterprise](https://medium.com/@BlairReeves/product-management-for-the-enterprise-f1118798376f)
     * [도그냥TV](https://www.youtube.com/channel/UCreMBpOzMfpoKTluWmPiesg)
+
 ## How to write a PRD
-* [구글 프로덕트 매니저가 알려주는 기획서 작성 꿀팁](https://brunch.co.kr/@lulina724/26)
+
+* [How to Write a Product Requirements Document (PRD)](https://blog.tryexponent.com/how-to-write-a-prd/) (한글 번역: [구글 프로덕트 매니저가 알려주는 기획서 작성 꿀팁](https://brunch.co.kr/@lulina724/26))
+* [How to Write a Good PRD](https://svpg.com/assets/Files/goodprd.pdf) - Martin Cagan
 * [Need more than a PRD? Functional specs to the rescue](https://productmanagementtips.com/2007/11/12/functionalspecs/) - Gopal Shenoy
 * [On Writing Product Spec](https://goberoi.com/on-writing-product-specs-5ca697b992fd) - Gaurav Oberoi (한글 번역: [프로덕트 스펙 문서 작성법](https://brunch.co.kr/@hj-kang/2))
-* [How to Write a Good PRD](https://svpg.com/assets/Files/goodprd.pdf) - Martin Cagan
 * [How to Write a Product Requirements Document - With Examples](https://www.perforce.com/blog/alm/how-write-product-requirements-document-prd) (at Perforce blog)
 * [Product Hunt](https://docs.google.com/document/d/1yrU5F6Gxhkfma91wf_IbZfexw8_fahbGQLW3EvwdfQI/) example
 * Joel Spolsky's Painless Functional Specifications: [part 1](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/), [part 2](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/), [part 3](https://www.joelonsoftware.com/2000/10/04/painless-functional-specifications-part-3-but-how/), [part 4](https://www.joelonsoftware.com/2000/10/15/painless-functional-specifications-part-4-tips/)
