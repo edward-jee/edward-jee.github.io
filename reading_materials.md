@@ -210,7 +210,7 @@
     * [한빛출판네트워크 편집자 Choice](https://www.hanbit.co.kr/channel/choice/editor_choice_view.html?cms_code=CMS9150073010)
 * [어서 와, 리더는 처음이지?](https://brunch.co.kr/brunchbook/youngleaders)
 * [Software Engineering at Google](https://arxiv.org/abs/1702.01715) (짧고 읽기 쉬운 논문) (한글번역: [링크](https://blog.naver.com/junechol/221495080367), [cached](attachments/junechol-Software%20Engineering%20at%20Google.pdf)) ([한글요약](https://docs.likejazz.com/software-engineering-at-google/))
-* [Software Engineering at Google](https://abseil.io/resources/swe-book) (두껍지만 읽기 쉬운 책) (5장 번역: [링크](https://blog.naver.com/junechol/222592134145), [cached](attachments/junechol-chap5.pdf))
+* [Software Engineering at Google](https://abseil.io/resources/swe-book) (두껍지만 읽기 쉬운 책) (5장 번역: [링크](https://blog.naver.com/junechol/222592134145), [cached](attachments/junechol-chap5.pdf) / 6장 번역: [링크](https://blog.naver.com/junechol/222602505041), [cached](attachments/junechol-chap6.pdf))
 * 실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가? ([1편](https://sendbird.com/ko/blog/eng-leader-role-1), [2편](https://sendbird.com/ko/blog/eng-leader-role-2))
 * [Google's Project Aristotle](https://rework.withgoogle.com/guides/understanding-team-effectiveness/) - What makes a team effective?
     * The New York Times Magazine's article about this: [link](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) ([cached (no sign-in)](attachments/What%20Google%20Learned%20From%20Its%20Quest%20to%20Build%20the%20Perfect%20Team%20-%20The%20New%20York%20Times.pdf))
