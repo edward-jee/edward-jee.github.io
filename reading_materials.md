@@ -39,7 +39,7 @@
 # Machine learning
 
 * [Making Friends with Machine Learning](https://towardsdatascience.com/making-friends-with-machine-learning-5e28d5205a29) - Cassie Kozyrkov
-* [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/#prml-book) - Christopher M. Bishop (Summaries in a Korean blog: [link](http://norman3.github.io/prml/))
+* [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/#prml-book) - Christopher M. Bishop (Summaries in a Korean blog: [link](http://norman3.github.io/prml/) / 한글 번역판: [link](https://jpub.tistory.com/835))
 * [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html) (Summary in Korean: [link](https://norman3.github.io/papers/docs/hidden_technical_debt))
 * Deep learning
     * [쉽게 풀어쓴 딥러닝의 거의 모든 것](http://t-robotics.blogspot.com/2015/05/deep-learning.html)
@@ -154,7 +154,7 @@
     * Effective C++ ([한글 요약](http://ajwmain.iptime.org/programming/book_summary/%5B00%5Deffective_cpp/effective_cpp.html))
     * More Effective C++ ([한글 요약](http://ajwmain.iptime.org/programming/book_summary/%5B01%5Dmore_effective_cpp/more_effective_cpp.html))
     * Effective STL ([한글 요약](http://ajwmain.iptime.org/programming/book_summary/%5B02%5Deffective_stl/effective_stl.html))
-    * Effective Modern C++ ([한글 요약](http://http//ajwmain.iptime.org/programming/book_summary/%5B03%5Deffective_modern_cpp/effective_modern_cpp.html)) ([짧은 요약](https://velog.io/@wsong0101/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EB%AA%A8%EB%8D%98-C-%EC%A0%95%EB%A6%AC))
+    * Effective Modern C++ ([한글 요약](http://ajwmain.iptime.org/programming/book_summary/%5B03%5Deffective_modern_cpp/effective_modern_cpp.html)) ([짧은 요약](https://velog.io/@wsong0101/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EB%AA%A8%EB%8D%98-C-%EC%A0%95%EB%A6%AC))
 * [API Design for C++](https://www.sciencedirect.com/book/9780123850034/api-design-for-c-and-and) (번역판: [C++ API 디자인](http://aladin.kr/p/IGia0))
 * Modern C++
     * [C++ 시작하기 - 최신 C++](https://docs.microsoft.com/ko-kr/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170) (Microsoft)
@@ -213,7 +213,7 @@
 * [Software Engineering at Google](https://abseil.io/resources/swe-book) (두껍지만 읽기 쉬운 책) (5장 번역: [링크](https://blog.naver.com/junechol/222592134145), [cached](attachments/junechol-chap5.pdf) / 6장 번역: [링크](https://blog.naver.com/junechol/222602505041), [cached](attachments/junechol-chap6.pdf))
 * 실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가? ([1편](https://sendbird.com/ko/blog/eng-leader-role-1), [2편](https://sendbird.com/ko/blog/eng-leader-role-2))
 * [Google's Project Aristotle](https://rework.withgoogle.com/guides/understanding-team-effectiveness/) - What makes a team effective?
-    * The New York Times Magazine's article about this: [link](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) ([cached (no sign-in)](attachments/What%20Google%20Learned%20From%20Its%20Quest%20to%20Build%20the%20Perfect%20Team%20-%20The%20New%20York%20Times.pdf))
+    * The New York Times Magazine's article about this: [link](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) / [cached (no sign-in)](attachments/What%20Google%20Learned%20From%20Its%20Quest%20to%20Build%20the%20Perfect%20Team%20-%20The%20New%20York%20Times.pdf)
         * The article is long. You can start from "But what was confusing was that not all the good teams appeared to behave in the same ways."
 * Google's Project Oxygen - Behaviours of best managers
     * [A blog post](https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/)
