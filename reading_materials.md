@@ -164,6 +164,7 @@
     * [씹어먹는 C++](https://modoocode.com/135) (chapter 12 - chapter 17)
     * [What is move semantics?](https://stackoverflow.com/q/3106110) (Stack Overflow) - 기계번역: [link](https://melkia.dev/ko/questions/3106110)
     * [What are rvalues, lvalues, xvalues, glvalues, and prvalues?](https://stackoverflow.com/q/3601602) (Stack Overflow)
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 * [더 안전하게 C++ 코드를 작성하는 법](https://www.cv-learn.com/20220115-safer-c/)
 * [When a Microsecond Is an Eternity: High Performance Trading Systems in C++](https://youtu.be/NH1Tta7purM)
     * [한글 요약](https://velog.io/@wsong0101/%EB%86%92%EC%9D%80-%EC%84%B1%EB%8A%A5%EC%9D%98-C-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%94%A9-%EC%8B%9C%EC%8A%A4%ED%85%9C) (주의: 이 한글 블로그 글에 있는 비디오 링크는 잘못되었음. 윗 줄의 링크가 맞음) ([cached](attachments/%EB%86%92%EC%9D%80%20%EC%84%B1%EB%8A%A5%EC%9D%98%20C%2B%2B%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%94%A9%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf))
@@ -183,7 +184,9 @@
 
 * [Google's code search for their open source projects](https://cs.opensource.google/)
 * [Linux kernel](https://elixir.bootlin.com/)
-* [Chromium](https://www.chromium.org/Home) / [Chromium OS](https://www.chromium.org/chromium-os)
+* [Chromium](https://www.chromium.org/Home) / [Chromium OS](https://www.chromium.org/chromium-os) (code search: [link](https://source.chromium.org/))
+* [Android](https://www.android.com/) (code search: [link](https://cs.android.com/))
+* [Kubernetes](https://opensource.google/projects/kubernetes)
 
 [\[top\]](#table-of-contents)
 
