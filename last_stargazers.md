@@ -6,7 +6,7 @@ October 2021
 ('The Last Stargazers' is the title of a book by Emily Levesque.)
 
 I like [this TED video](
-https://www.ted.com/talks/emily_levesque_a_stellar_history_of_modern_astronomy/transcript?language=en).
+https://www.ted.com/talks/emily_levesque_a_stellar_history_of_modern_astronomy/).
 Once TED translators accept me as a regular member, I will upload this caption
 to their official website.
 
