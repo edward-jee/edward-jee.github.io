@@ -142,7 +142,7 @@
 # Distributed systems and data engineering
 
 * [Designing Data-Intensive Applications](https://dataintensive.net/)
-    * [Korean version](http://aladin.kr/p/t1Nzd) / [a review](https://towardsdatascience.com/designing-data-intensive-applications-book-review-cc34ba1f90a7) / [concise video summary](https://www.youtube.com/watch?v=PdtlXdse7pw&list=PL4KdJM8LzAMecwInbBK5GJ3Anz-ts75RQ) / [SDML bookclub notes and videos](https://github.com/SanDiegoMachineLearning/bookclub/blob/master/designing-data-intensive-apps.md) / [author interview](https://www.youtube.com/watch?v=grGqCuTcu50) / [SDE Skills videos](https://www.youtube.com/watch?v=fxNn_CpzdB0&list=PLBtMh4xfa9FGWU4E4oP9uqHuSl9ht7wXD&index=38)
+    * [Korean version](http://aladin.kr/p/t1Nzd) / [a review](https://towardsdatascience.com/designing-data-intensive-applications-book-review-cc34ba1f90a7) / [concise video summary](https://www.youtube.com/watch?v=PdtlXdse7pw&list=PL4KdJM8LzAMecwInbBK5GJ3Anz-ts75RQ) / [SDML bookclub notes and videos](https://github.com/SanDiegoMachineLearning/bookclub/blob/master/designing-data-intensive-apps.md) / [Slides in Korean](https://github.com/data-system-wiki/designing-data-intensive-applications) / [author interview](https://www.youtube.com/watch?v=grGqCuTcu50) / [SDE Skills videos](https://www.youtube.com/watch?v=fxNn_CpzdB0&list=PLBtMh4xfa9FGWU4E4oP9uqHuSl9ht7wXD&index=38)
     * 분산 시스템과 현대적 데이터 엔지니어링의 이론적 토대를 배울 수 있는 책
     * FAANG의 system design 면접 준비에 좋다고 추천되는 책
 
