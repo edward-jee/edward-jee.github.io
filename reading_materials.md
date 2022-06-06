@@ -151,6 +151,8 @@
 
 # C++
 
+* [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+    * Old snapshots, just for comparsion (Do **not** use these!): [Korean](http://jongwook.kim/google-styleguide/trunk/cppguide.xml)(around Sep. 2013), [English](attachments/Google%20C%2B%2B%20Style%20Guide.pdf)(around Nov. 2011), [Korean](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sorkelf&logNo=40133065744)(around mid 2011)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 * [Google's Tips of the Week](https://abseil.io/tips/)
 * [C++ Insights](https://cppinsights.io/)
