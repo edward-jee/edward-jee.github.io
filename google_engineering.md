@@ -16,7 +16,8 @@ engineering.
 and easy-to-read paper.
 * [Software Engineering at Google](https://abseil.io/resources/swe-book): A
 thick (but still easy to read) book. It even explains the roles of TLs, TLMs,
-and eng managers. Free PDF available.
+and eng managers. Free PDF available. \[* Finally we have a Korean translation:
+[link](https://www.hanbit.co.kr/store/books/look.php?p_code=B1207366943)\]
 * [The Production Environment at Google, from the Viewpoint of an
 SRE](https://sre.google/sre-book/production-environment/): A book chapter.
 Describes basic Google infrastructure and development environment.
