@@ -66,6 +66,7 @@
 
 * [The Art of Readable Code](https://learning.oreilly.com/library/view/the-art-of/9781449318482/) - 번역판: [읽기 좋은 코드가 좋은 코드다](http://aladin.kr/p/KFsHD)
 * [Google Style Guides](https://google.github.io/styleguide/)
+* [Chromium coding style](https://chromium.googlesource.com/chromium/src/+/main/styleguide/styleguide.md)
 * [Code Complete (2nd ed)](https://www.amazon.com/gp/product/0735619670/) (번역판: [link](http://aladin.kr/p/Ro9nt))
 
 [\[top\]](#table-of-contents)
@@ -150,12 +151,16 @@
 
 # C++
 
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+* [Google's Tips of the Week](https://abseil.io/tips/)
+* [C++ Insights](https://cppinsights.io/)
 * ['Effective' series](https://www.aristeia.com/books.html), the most recommended books (한글 요약들 백업: [link](attachments/cppbooksummaries.zip))
     * Effective C++ ([한글 요약](http://ajwmain.iptime.org/programming/book_summary/%5B00%5Deffective_cpp/effective_cpp.html))
     * More Effective C++ ([한글 요약](http://ajwmain.iptime.org/programming/book_summary/%5B01%5Dmore_effective_cpp/more_effective_cpp.html))
     * Effective STL ([한글 요약](http://ajwmain.iptime.org/programming/book_summary/%5B02%5Deffective_stl/effective_stl.html))
     * Effective Modern C++ ([한글 요약](http://ajwmain.iptime.org/programming/book_summary/%5B03%5Deffective_modern_cpp/effective_modern_cpp.html)) ([짧은 요약](https://velog.io/@wsong0101/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EB%AA%A8%EB%8D%98-C-%EC%A0%95%EB%A6%AC))
 * [API Design for C++](https://www.sciencedirect.com/book/9780123850034/api-design-for-c-and-and) (번역판: [C++ API 디자인](http://aladin.kr/p/IGia0))
+* [씹어먹는 C++](https://modoocode.com/135)
 * Modern C++
     * [C++ 시작하기 - 최신 C++](https://docs.microsoft.com/ko-kr/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170) (Microsoft)
     * [Overview of the New C++ (C++11/14)](https://www.artima.com/samples/cpp11-14NotesSample.pdf) - Scott Meyers
@@ -164,7 +169,7 @@
     * [씹어먹는 C++](https://modoocode.com/135) (chapter 12 - chapter 17)
     * [What is move semantics?](https://stackoverflow.com/q/3106110) (Stack Overflow) - 기계번역: [link](https://melkia.dev/ko/questions/3106110)
     * [What are rvalues, lvalues, xvalues, glvalues, and prvalues?](https://stackoverflow.com/q/3601602) (Stack Overflow)
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+* [C++ 언어 설명서](https://docs.microsoft.com/ko-kr/cpp/cpp/?view=msvc-170) (Microsoft)
 * [더 안전하게 C++ 코드를 작성하는 법](https://www.cv-learn.com/20220115-safer-c/)
 * [When a Microsecond Is an Eternity: High Performance Trading Systems in C++](https://youtu.be/NH1Tta7purM)
     * [한글 요약](https://velog.io/@wsong0101/%EB%86%92%EC%9D%80-%EC%84%B1%EB%8A%A5%EC%9D%98-C-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%94%A9-%EC%8B%9C%EC%8A%A4%ED%85%9C) (주의: 이 한글 블로그 글에 있는 비디오 링크는 잘못되었음. 윗 줄의 링크가 맞음) ([cached](attachments/%EB%86%92%EC%9D%80%20%EC%84%B1%EB%8A%A5%EC%9D%98%20C%2B%2B%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%94%A9%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf))
@@ -200,7 +205,7 @@
 # Productivity
 
 * [Meetings That Don’t Suck](https://www.bringthedonuts.com/essays/meetings-that-dont-suck.html) - Ken Norton
-    * 한 가지 추가하고 싶은 것: 모든 회의는 결과물이 있어야 한다. 결과물은 의사결정 또는 액션 아이템이다.
+    * 한 가지 추가하고 싶은 것: 모든 회의는 결과물이 있어야 한다. 결과물은 대개 의사결정, 액션 아이템, 또는 (단순 회의록이 아닌)문서이다.
 * [Maker's schedule, manager's schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham (한글 번역: [개발자의 시간 관리 vs 관리자의 시간 관리](https://justinchronicles.net/ko/2014/02/07/makers-schedule-managers-schedule/))
 * [The Good Day Project](https://github.blog/2021-05-25-octoverse-spotlight-good-day-project/)
 * [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)
