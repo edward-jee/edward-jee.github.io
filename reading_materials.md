@@ -204,11 +204,18 @@
 
 [\[top\]](#table-of-contents)
 
+# Continuous integration examples
+
+* [Android](https://source.android.com/setup/build/dashboard)
+* [Chromium](https://www.chromium.org/developers/testing/chromium-build-infrastructure/tour-of-the-chromium-buildbot/) (* see also: [Deterministic builds](https://chromium.googlesource.com/chromium/src.git/+/HEAD/docs/deterministic_builds.md))
+* [Chromium OS](https://www.chromium.org/chromium-os/build/tour-of-the-chromiumos-buildbot/)
+* [Kubernetes](https://github.com/kubernetes/test-infra)
+
 # Productivity
 
 * [Meetings That Don’t Suck](https://www.bringthedonuts.com/essays/meetings-that-dont-suck.html) - Ken Norton
-    * 한 가지 추가하고 싶은 것: 모든 회의는 결과물이 있어야 한다. 결과물은 대개 의사결정, 액션 아이템, 또는 (단순 회의록이 아닌)문서이다.
-* [Maker's schedule, manager's schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham (한글 번역: [개발자의 시간 관리 vs 관리자의 시간 관리](https://justinchronicles.net/ko/2014/02/07/makers-schedule-managers-schedule/))
+    * 한 가지 추가하고 싶은 것: 모든 회의는 결과물이 있어야 한다고 생각한다. 결과물은 대개 의사결정, 액션 아이템, 또는 (단순 회의록이 아닌)문서이다.
+* [Maker's schedule, manager's schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham (한글 번역: [개발자의 시간 관리 vs 관리자의 시간 관리](https://justinchronicles.net/ko/2014/02/07/makers-schedule-managers-schedule/), [관련글 1](https://platum.kr/archives/75646), [관련글 2](https://brunch.co.kr/@davejin/17), [관련글 3](https://topofcomp.tistory.com/498))
 * [The Good Day Project](https://github.blog/2021-05-25-octoverse-spotlight-good-day-project/)
 * [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)
 
