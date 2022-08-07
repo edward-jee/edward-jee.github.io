@@ -58,7 +58,11 @@
 
 * [Statistics 110, Harvard](https://www.boostcourse.org/ai152) (한글 자막 및 한글 가이드 있음) - [Direct link (no sign-in)](https://www.boostcourse.org/ai152/joinLectures/195039)
 * [인공지능을 위한 선형대수](https://www.boostcourse.org/ai251) - [Direct link (no sign-in)](https://www.boostcourse.org/ai251/joinLectures/195088)
-* [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+* Materials about Kalman Filter
+    * [An Elementary Introduction to Kalman Filtering](https://arxiv.org/pdf/1710.04055.pdf) ([cached](attachments/AnElementaryIntroductionToKalmanFilteringpdf.pdf))
+    * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/) ([cached](attachments/How%20a%20Kalman%20filter%20works%2C%20in%20pictures%20_%20Bzarg.pdf))
+    * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+* [A Korean blog article about Hidden Markov Model](https://untitledtblog.tistory.com/97) ([alternative link](https://untitledtblog.tistory.com/140), [cache](attachments/%5B%EB%A8%B8%EC%8B%A0%20%EB%9F%AC%EB%8B%9D%5D%20-%20%EC%9D%80%EB%8B%89%20%EB%A7%88%EB%A5%B4%EC%BD%94%ED%94%84%20%EB%AA%A8%EB%8D%B8%20(Hidden%20Markov%20Model%2C%20HMM).pdf)))
 
 [\[top\]](#table-of-contents)
 
@@ -245,6 +249,7 @@
     * 평: 예전의 아마존처럼 직원을 상대평가하여 하위 몇 프로를 해고하는 것에는 동의하지 않습니다. 회사가 믿을 수 있고 안전하다는 느낌을 주면서도 능률적일 수 있다고 믿습니다.
 * [성공한 팀장들은 지독하게 솔직… 다만 직구 아닌 변화구로 말한다](https://web.archive.org/web/20200203171507/http://weeklybiz.chosun.com/site/data/html_dir/2019/09/26/2019092602017.html) ([cached](attachments/%5BWEEKLY%20BIZ%5D%20%EC%84%B1%EA%B3%B5%ED%95%9C%20%ED%8C%80%EC%9E%A5%EB%93%A4%EC%9D%80%20%EC%A7%80%EB%8F%85%ED%95%98%EA%B2%8C%20%EC%86%94%EC%A7%81%E2%80%A6%20%EB%8B%A4%EB%A7%8C%20%EC%A7%81%EA%B5%AC%20%EC%95%84%EB%8B%8C%20%EB%B3%80%ED%99%94%EA%B5%AC%EB%A1%9C%20%EB%A7%90%ED%95%9C%EB%8B%A4.pdf))
     * 평: 솔직한 피드백을 하되 기분 좋게 전달하는 방법이 있으리라 믿습니다.
+* [Interview tips for moving up to leadership](https://www.bzarg.com/p/interview-tips-for-moving-up-to-leadership/) ([cached](attachments/Interview%20tips%20for%20moving%20up%20to%20leadership%20_%20Bzarg.pdf))
 
 [\[top\]](#table-of-contents)
 
@@ -365,5 +370,6 @@
 * [Andrew Ng Launches A Campaign For Data-Centric AI](https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/) ([cached](attachments/Andrew%20Ng%20Launches%20A%20Campaign%20For%20Data-Centric%20AI.pdf))
 * [Failure of IBM Watson](ibm_watson_failure.md) (articles in English and Korean)
 * [Woowa Brothers' engineering culture](https://dbr.donga.com/article/view/1201/article_no/10410/ac/magazine) ([cached](attachments/%E2%80%9C%EC%A7%81%EA%B5%B0%EB%B3%84%20%ED%9A%A1%EC%A0%81%20%EC%A1%B0%EC%A7%81%EC%9C%BC%EB%A1%9C%20%E2%80%98%EC%82%AC%EC%9D%BC%EB%A1%9C%20%EB%AC%B8%EC%A0%9C%E2%80%99%20%ED%95%B4%EA%B2%B0%2C%20%EC%9E%A5%EC%95%A0%20%EB%B0%9C%EC%83%9D%20%EB%95%90%20%EA%B0%9C%EC%9D%B8%20%ED%83%93%20%EC%95%84%EB%8B%8C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B0%9C%EC%84%A0%20%EC%A3%BC%EB%A0%A5%E2%80%9D%20_%20%EC%9D%B8%EC%82%AC_%EC%A1%B0%EC%A7%81%20_%20DBR.pdf))
+* [Introduction to AUTOMATIC DIFFERENTIATION](https://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/) ([cached](attachments/Introduction%20to%20Automatic%20Differentiation.pdf))
 
 [\[top\]](#table-of-contents)
