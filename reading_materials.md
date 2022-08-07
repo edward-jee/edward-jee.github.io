@@ -45,12 +45,21 @@
     * [쉽게 풀어쓴 딥러닝의 거의 모든 것](http://t-robotics.blogspot.com/2015/05/deep-learning.html)
     * Andrew Ng's lecture on deep learning (한글 자막 및 한글 가이드 있음): [step 1](https://www.boostcourse.org/ai215), [step 2](https://www.boostcourse.org/ai216), [step 3](https://www.boostcourse.org/ai217), [step 4](https://www.boostcourse.org/ai218)
         * Direct links (no sign-in): [step 1](https://www.boostcourse.org/ai215/joinLectures/86246), [step 2](https://www.boostcourse.org/ai216/joinLectures/132203), [step 3](https://www.boostcourse.org/ai217/joinLectures/132223), [step 4](https://www.boostcourse.org/ai218/joinLectures/138357)
+    * [골빈해커의 3분 딥러닝 텐서플로맛](https://www.hanbit.co.kr/store/books/look.php?p_code=B7257101308)
+* Computer vision
+    * [컴퓨터비전](http://www.kocw.net/home/cview.do?cid=1b1f5b73413060b5) (KOCW)
+    * [딥러닝과 컴퓨터비전](http://www.kocw.net/home/cview.do?cid=ed866750e14cedd6) (KOCW)
     * [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다](https://www.slideshare.net/yongho/ss-79607172) (특히 vision 및 image processing 관련 예제가 나옴)
     * [ResNet](https://lv99.tistory.com/25) (한글 설명)
-    * [골빈해커의 3분 딥러닝 텐서플로맛](https://www.hanbit.co.kr/store/books/look.php?p_code=B7257101308)
+    * [Object Detection on Android using TensorFlow Lite (TF Lite)](https://www.augmentedstartups.com/blog/object-detection-on-android-using-tensorflow-lite-tf-lite)
 * Reinforcement learning
     * [Reinforcement learning explained](https://www.oreilly.com/radar/reinforcement-learning-explained/)
     * [Reinforcement Learning Made Simple](https://towardsdatascience.com/reinforcement-learning-made-simple-part-1-intro-to-basic-concepts-and-terminology-1d2a87aa060)
+    * Sebastian Castro's introductory articles
+        * [An Intuitive Guide to Reinforcement Learning](https://roboticseabass.com/2020/08/02/an-intuitive-guide-to-reinforcement-learning/) ([cached](attachments/RL1%20An%20Intuitive%20Guide%20to%20Reinforcement%20Learning%20-%20Robotic%20Sea%20Bass.pdf))
+        * [Introduction to Deep Reinforcement Learning](https://roboticseabass.com/2020/08/15/introduction-to-deep-reinforcement-learning/) ([cached](attachments/RL2%20Introduction%20to%20Deep%20Reinforcement%20Learning%20-%20Robotic%20Sea%20Bass.pdf))
+        * [Reinforcement Learning: Looking Ahead and Getting Started](https://roboticseabass.com/2020/08/22/reinforcement-learning-looking-ahead-and-getting-started/) ([cached](attachments/RL3%20Reinforcement%20Learning_%20Looking%20Ahead%20and%20Getting%20Started%20-%20Robotic%20Sea%20Bass.pdf))
+* [Papers With Code](https://paperswithcode.com/)
 
 [\[top\]](#table-of-contents)
 
@@ -141,6 +150,7 @@
 
 * [The Twelve-Factor App](https://12factor.net/) (한국어판: [link](https://12factor.net/ko/))
 * [React.js, 스프링 부트, AWS로 배우는 웹 개발 101](http://acornpub.co.kr/book/reactjs-springboot) - [김다정](https://cselabnotes.com/kr/sample-page/)
+* [클라우드 인프라 구축 및 활용](http://www.kocw.net/home/cview.do?cid=5d286835fd5cde8c) (KOCW) - An introductory AWS course
 
 [\[top\]](#table-of-contents)
 
