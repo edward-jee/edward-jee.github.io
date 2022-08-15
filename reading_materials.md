@@ -227,6 +227,7 @@
 
 # Productivity
 
+* [Effective Engineer](http://www.effectiveengineer.com/) (한글번역: [이펙티브 엔지니어](https://books.google.co.kr/books/about/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4.html?id=Hap5EAAAQBAJ&redir_esc=y), Summary: [English](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f), [Korean](https://dev200ok.blogspot.com/2020/04/dev_13.html))
 * [Meetings That Don’t Suck](https://www.bringthedonuts.com/essays/meetings-that-dont-suck.html) - Ken Norton
     * 한 가지 추가하고 싶은 것: 모든 회의는 결과물이 있어야 한다고 생각한다. 결과물은 대개 의사결정, 액션 아이템, 또는 (단순 회의록이 아닌)문서이다.
 * [Maker's schedule, manager's schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham (한글 번역: [개발자의 시간 관리 vs 관리자의 시간 관리](https://justinchronicles.net/ko/2014/02/07/makers-schedule-managers-schedule/), [관련글 1](https://platum.kr/archives/75646), [관련글 2](https://brunch.co.kr/@davejin/17), [관련글 3](https://topofcomp.tistory.com/498))
@@ -237,6 +238,7 @@
 
 # Engineering management
 
+* [The Making of a Manager](https://www.juliezhuo.com/book/manager.html) (한글번역: [팀장의 탄생](https://www.gilbut.co.kr/book/view?bookcode=BN002858), Summary in English: [link](https://fellow.app/blog/management/julie-zhuo-the-making-of-a-manager/)) 
 * [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) (한글번역: [개발 7년차, 매니저 1년차](http://aladin.kr/p/4WyAq))
     * [한빛출판네트워크 편집자 Choice](https://www.hanbit.co.kr/channel/choice/editor_choice_view.html?cms_code=CMS9150073010)
 * [어서 와, 리더는 처음이지?](https://brunch.co.kr/brunchbook/youngleaders)
@@ -366,6 +368,14 @@
 * [Empathy is the most important leadership skill according to research](https://www.forbes.com/sites/tracybrower/2021/09/19/empathy-is-the-most-important-leadership-skill-according-to-research/) (Forbes) ([cached](attachments/Empathy%20Is%20The%20Most%20Important%20Leadership%20Skill%20According%20To%20Research.pdf))
 * [The law of leaky abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - Joel Spolsky (Wikipedia page: [link](https://en.wikipedia.org/wiki/Leaky_abstraction))
 * [Teach yourself programming in ten years](https://norvig.com/21-days.html) - Peter Norvig
+* [Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit) - George Orwell (한글번역: [1](https://blog.daum.net/hjb009/8445446), [2](https://blog.daum.net/hjb009/8445446))
+    * 다음은 '조지 오웰 산문선'에서 발췌하였음.
+    1. 글에서 자주 본 은유, 직유, 기타 비유적 표현을 절대 사용하지 않는다.
+    2. 짧은 단어로 충분할 때는 긴 단어를 절대 사용하지 않는다.
+    3. 어떤 단어를 뺄 수 있을 때는 항상 뺀다.
+    4. 능동태를 쓸 수 있을 때는 수동태를 절대 쓰지 않는다.
+    5. 같은 뜻의 일상 영어가 생각나면 외래어 문구, 과학 용어, 전문 용어를 절대 쓰지 않는다.
+    6. 아주 상스러운 말을 하느니 차라리 위의 원칙을 어긴다.
 * [The Evolution of CPU Processing Power](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU) - YouTube
 * [The universal design pattern](http://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html) - Steve Yegge (Reddit thread: [link](https://www.reddit.com/r/programming/comments/786qn/the_universal_design_pattern_steve_yegge/))
 * [Good agile, bad agile](http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html) - Steve Yegge (Hacker News thread: [link](https://news.ycombinator.com/item?id=3616193))
