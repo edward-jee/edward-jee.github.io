@@ -71,7 +71,7 @@
     * [An Elementary Introduction to Kalman Filtering](https://arxiv.org/pdf/1710.04055.pdf) ([cached](attachments/AnElementaryIntroductionToKalmanFilteringpdf.pdf))
     * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/) ([cached](attachments/How%20a%20Kalman%20filter%20works%2C%20in%20pictures%20_%20Bzarg.pdf))
     * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
-* [A Korean blog article about Hidden Markov Model](https://untitledtblog.tistory.com/97) ([alternative link](https://untitledtblog.tistory.com/140), [cache](attachments/%5B%EB%A8%B8%EC%8B%A0%20%EB%9F%AC%EB%8B%9D%5D%20-%20%EC%9D%80%EB%8B%89%20%EB%A7%88%EB%A5%B4%EC%BD%94%ED%94%84%20%EB%AA%A8%EB%8D%B8%20(Hidden%20Markov%20Model%2C%20HMM).pdf)))
+* [A Korean blog article about Hidden Markov Model](https://untitledtblog.tistory.com/97) ([alternative link](https://untitledtblog.tistory.com/140), [cache](attachments/%5B%EB%A8%B8%EC%8B%A0%20%EB%9F%AC%EB%8B%9D%5D%20-%20%EC%9D%80%EB%8B%89%20%EB%A7%88%EB%A5%B4%EC%BD%94%ED%94%84%20%EB%AA%A8%EB%8D%B8%20(Hidden%20Markov%20Model%2C%20HMM).pdf))
 
 [\[top\]](#table-of-contents)
 
@@ -376,6 +376,7 @@
     4. 능동태를 쓸 수 있을 때는 수동태를 절대 쓰지 않는다.
     5. 같은 뜻의 일상 영어가 생각나면 외래어 문구, 과학 용어, 전문 용어를 절대 쓰지 않는다.
     6. 아주 상스러운 말을 하느니 차라리 위의 원칙을 어긴다.
+* [발표의 정석](https://github.com/edward-jee/edward-jee.github.io/blob/main/attachments/%EB%B0%9C%ED%91%9C%EC%9D%98%20%EC%A0%95%EC%84%9D.pdf) - 하용호
 * [The Evolution of CPU Processing Power](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU) - YouTube
 * [The universal design pattern](http://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html) - Steve Yegge (Reddit thread: [link](https://www.reddit.com/r/programming/comments/786qn/the_universal_design_pattern_steve_yegge/))
 * [Good agile, bad agile](http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html) - Steve Yegge (Hacker News thread: [link](https://news.ycombinator.com/item?id=3616193))
