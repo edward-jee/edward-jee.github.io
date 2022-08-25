@@ -32,7 +32,7 @@
 * [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) ([cached](attachments/Design%20Docs%20at%20Google.pdf))
 * [A Quora answer about how Google documents and reviews engineering designs](https://www.quora.com/How-do-teams-in-big-companies-like-Facebook-do-feature-designs-and-design-reviews/answer/J%C3%A9r%C3%B4me-Cukier) ([cached](attachments/J%C3%A9r%C3%B4me%20Cukier%27s%20answer%20to%20How%20do%20teams%20in%20big%20companies%20like%20Facebook%20do%20feature%20designs%20and%20design%20reviews_%20-%20Quora.pdf))
 * [How do I write engineering design docs in Google: an example](https://luanjunyi.medium.com/how-do-i-write-engineering-design-docs-in-google-an-example-f19febe0297c) ([cached](attachments/How%20do%20I%20write%20engineering%20design%20docs%20in%20Google%20_%20Medium.pdf))
-* Chapter 10 of [Software Engineering at Google](https://abseil.io/resources/swe-book)
+* "[Design docs](https://abseil.io/resources/swe-book/html/ch10.html#design_docs)" section (p.195) in chapter 10 of [Software Engineering at Google](https://abseil.io/resources/swe-book)
 
 [\[top\]](#table-of-contents)
 
@@ -376,7 +376,7 @@
     4. 능동태를 쓸 수 있을 때는 수동태를 절대 쓰지 않는다.
     5. 같은 뜻의 일상 영어가 생각나면 외래어 문구, 과학 용어, 전문 용어를 절대 쓰지 않는다.
     6. 아주 상스러운 말을 하느니 차라리 위의 원칙을 어긴다.
-* [발표의 정석](https://github.com/edward-jee/edward-jee.github.io/blob/main/attachments/%EB%B0%9C%ED%91%9C%EC%9D%98%20%EC%A0%95%EC%84%9D.pdf) - 하용호
+* [발표의 정석](attachments/%EB%B0%9C%ED%91%9C%EC%9D%98%20%EC%A0%95%EC%84%9D.pdf) - 하용호
 * [The Evolution of CPU Processing Power](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU) - YouTube
 * [The universal design pattern](http://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html) - Steve Yegge (Reddit thread: [link](https://www.reddit.com/r/programming/comments/786qn/the_universal_design_pattern_steve_yegge/))
 * [Good agile, bad agile](http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html) - Steve Yegge (Hacker News thread: [link](https://news.ycombinator.com/item?id=3616193))
