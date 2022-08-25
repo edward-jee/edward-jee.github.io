@@ -234,6 +234,18 @@
 * [The Good Day Project](https://github.blog/2021-05-25-octoverse-spotlight-good-day-project/)
 * [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)
 
+# Excellency
+
+* [The 4 things it takes to be an expert](https://youtu.be/5eW6Eagr9XA)
+    * 어떤 영역에서 실력을 키워 전문가가 되는 법
+        * 피드백을 받으면서 반복적으로 수행하기
+        * 뭔가 노력하는 만큼 결과가 좋아지는, valid environment
+        * 즉각적으로 받는 피드백
+        * Comfort zone을 벗어나기 (본인을 살짝 push하는 환경 및 동기부여요인을 만들어 놓고, 쉽게 할 수 있는 것보다는 간신히 할 수 있는 난이도의 일을 한다)
+* [공부 잘하는 학생, 대한민국 상위 0.1% 학생의 비밀](https://youtu.be/ptiCX_I0fZc)
+* [Great at Work](http://mortenhansen.com/great-at-work/) ([한글요약](https://parksehee.blog/2021/01/22/great-at-work/))
+* [The Talent Code](https://danielcoyle.com/the-talent-code/) ([번역판](http://aladin.kr/p/eyddh))
+
 [\[top\]](#table-of-contents)
 
 # Engineering management
@@ -242,6 +254,7 @@
 * [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) (한글번역: [개발 7년차, 매니저 1년차](http://aladin.kr/p/4WyAq))
     * [한빛출판네트워크 편집자 Choice](https://www.hanbit.co.kr/channel/choice/editor_choice_view.html?cms_code=CMS9150073010)
 * [어서 와, 리더는 처음이지?](https://brunch.co.kr/brunchbook/youngleaders)
+* [Scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng) - Raylene Yung (Stripe)
 * [Software Engineering at Google](https://arxiv.org/abs/1702.01715) (짧고 읽기 쉬운 논문) (한글번역: [링크](https://blog.naver.com/junechol/221495080367), [cached](attachments/junechol-Software%20Engineering%20at%20Google.pdf)) ([한글요약](https://docs.likejazz.com/software-engineering-at-google/))
 * [Software Engineering at Google](https://abseil.io/resources/swe-book) (두껍지만 읽기 쉬운 책) (5장 번역: [링크](https://blog.naver.com/junechol/222592134145), [cached](attachments/junechol-chap5.pdf) / 6장 번역: [링크](https://blog.naver.com/junechol/222602505041), [cached](attachments/junechol-chap6.pdf))
 * 실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가? ([1편](https://sendbird.com/ko/blog/eng-leader-role-1), [2편](https://sendbird.com/ko/blog/eng-leader-role-2))
@@ -261,22 +274,30 @@
     * 평: 예전의 아마존처럼 직원을 상대평가하여 하위 몇 프로를 해고하는 것에는 동의하지 않습니다. 회사가 믿을 수 있고 안전하다는 느낌을 주면서도 능률적일 수 있다고 믿습니다.
 * [성공한 팀장들은 지독하게 솔직… 다만 직구 아닌 변화구로 말한다](https://web.archive.org/web/20200203171507/http://weeklybiz.chosun.com/site/data/html_dir/2019/09/26/2019092602017.html) ([cached](attachments/%5BWEEKLY%20BIZ%5D%20%EC%84%B1%EA%B3%B5%ED%95%9C%20%ED%8C%80%EC%9E%A5%EB%93%A4%EC%9D%80%20%EC%A7%80%EB%8F%85%ED%95%98%EA%B2%8C%20%EC%86%94%EC%A7%81%E2%80%A6%20%EB%8B%A4%EB%A7%8C%20%EC%A7%81%EA%B5%AC%20%EC%95%84%EB%8B%8C%20%EB%B3%80%ED%99%94%EA%B5%AC%EB%A1%9C%20%EB%A7%90%ED%95%9C%EB%8B%A4.pdf))
     * 평: 솔직한 피드백을 하되 기분 좋게 전달하는 방법이 있으리라 믿습니다.
+* [StaffEng](https://staffeng.com/)
+* [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) ([번역판](http://aladin.kr/p/NKMCu), [WP article](https://www.washingtonpost.com/news/on-leadership/wp/2015/11/18/how-a-business-book-from-the-80s-became-a-cult-classic-in-silicon-valley/) and [cache](attachments/How%20a%20business%20book%20from%20the%20%E2%80%9980s%20became%20a%20cult%20classic%20in%20Silicon%20Valley%20-%20The%20Washington%20Post.pdf), [summary by Ian Tien](https://medium.com/@iantien/top-takeaways-from-andy-grove-s-high-output-management-2e0ecfb1ea63))
 * [Interview tips for moving up to leadership](https://www.bzarg.com/p/interview-tips-for-moving-up-to-leadership/) ([cached](attachments/Interview%20tips%20for%20moving%20up%20to%20leadership%20_%20Bzarg.pdf))
 
 [\[top\]](#table-of-contents)
 
 # Product Management
 
+* [Building a great product management organization](https://stripe.com/atlas/guides/building-a-great-pm-org) (Stripe Atlas guide) - Elad Gil
 * [How 51 leading tech teams define the Product Manager role](https://producthabits.com/product-manager-job-description/) (한글 번역: [실리콘밸리 51개 기업들이 말하는 프로덕트 매니저의 역할 9가지](http://blog.wishket.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-51%EA%B0%9C-%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EC%9D%98/))
 * [채용 공고 뜯어보며 PM 직무 이해하기](https://brunch.co.kr/@moon9410/43)
+* [사업 폭넓게 정의하고 실패 땐 빨리 인정, 피버팅 대명사 ‘슬랙’도 그렇게 탄생했다](https://dbr.donga.com/article/view/1203/article_no/9898/ac/a_view) ([cached](attachments/%EC%82%AC%EC%97%85%20%ED%8F%AD%EB%84%93%EA%B2%8C%20%EC%A0%95%EC%9D%98%ED%95%98%EA%B3%A0%20%EC%8B%A4%ED%8C%A8%20%EB%95%90%20%EB%B9%A8%EB%A6%AC%20%EC%9D%B8%EC%A0%95%2C%20%ED%94%BC%EB%B2%84%ED%8C%85%20%EB%8C%80%EB%AA%85%EC%82%AC%20%E2%80%98%EC%8A%AC%EB%9E%99%E2%80%99%EB%8F%84%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%ED%83%84%EC%83%9D%ED%96%88%EB%8B%A4%20_%20%EA%B2%BD%EC%98%81%EC%A0%84%EB%9E%B5%20_%20DBR.pdf)) - Dong-A Business Review
 * [On Writing Product Roadmaps](https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c) - Gaurav Oberoi
 * Jackie Bavaro
     * [Cracking the PM Career](https://www.crackingthepmcareer.com/) - with Gayle McDowell
     * [Cracking the PM Interview](https://www.crackingthepminterview.com/) (번역판: [PM인터뷰의 모든 것](https://jpub.tistory.com/471) / [2장 PDF](attachments/PM%EC%9D%B8%ED%84%B0%EB%B7%B0%EC%9D%98%EB%AA%A8%EB%93%A0%EA%B2%83_sample.pdf))
     * [https://jackiebo.medium.com/](https://jackiebo.medium.com/)
 * Marty Cagan
-    * [Inspired](https://svpg.com/inspired-how-to-create-products-customers-love/) (번역판: [link](https://jpub.tistory.com/885))
+    * [Inspired](https://svpg.com/inspired-how-to-create-products-customers-love/) (번역판: [link](https://jpub.tistory.com/885), 한글 요약: [link](https://parksehee.blog/2022/06/03/inspired/))
     * [https://svpg.com/](https://svpg.com/)
+        * [The Most Important Thing](https://www.svpg.com/the-most-important-thing/)
+            * 피쳐 팀이 아니라 프로덕트 팀이 되기 위해 가장 중요한 것은, 엔지니어들에게 권한을 주는 것이다.
+            * 즉, 엔지니어들에게 해결해야 할 문제와 전략적 맥락(strategic context)을 주고, 엔지니어들이 기술을 활용하여 가장 좋은 해결책을 찾도록 하는 것이다.
+            * 혁신의 원천은 엔지니어이다.
 * Ken Norton
     * [How to Hire a Product Manager](https://www.bringthedonuts.com/essays/productmanager.html) (A famous classic that explains what a PM is) (10 yr anniversary: [link](https://www.bringthedonuts.com/essays/happy-10th-birthday-to-hthapm.html)) (한글 번역 1: [link](https://m.blog.naver.com/careerinspo/221976711074)) (한글 번역 2: [link](https://webuildproduct.com/%EC%96%B4%EB%96%A4-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%A5%BC-%EC%B1%84%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-45396988f6a0))
     * [What Makes A Strong Product Culture?](https://newsletter.bringthedonuts.com/p/what-makes-a-strong-product-culture)
@@ -307,6 +328,8 @@
 * [Rework](https://basecamp.com/books/rework) (번역판: [리워크](http://aladin.kr/p/IbO0y))
 * [When should you a hire a Product Manager?](https://medium.com/once-upon-a-team/when-should-you-a-hire-a-product-manager-91e393862150) (한글 번역: [언제 프로덕트 매니저를 채용해야 할까?](https://webuildproduct.com/%EC%96%B8%EC%A0%9C-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%A5%BC-%EC%B1%84%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-ca5fdf076206))
 * Miscellaneous posts
+    * [현재 <개발자>인데 "프로덕트매니저"가 되고 싶다구요?](https://brunch.co.kr/@ywkim36/17)
+    * [좋은 PM에게 '영혼의 닭고기 수프'와 같은 10권의 책](https://brunch.co.kr/@ywkim36/45)
     * [What is a project manager? The lead role for project success](https://www.cio.com/article/230682/what-is-a-project-manager-the-lead-role-for-project-success.html)
     * [Project management for non-project managers](https://www.atlassian.com/project-management)
     * [PM은 리더가 아니다?··· 프로젝트 관리자들의 8가지 착각](https://www.ciokorea.com/news/146190)
@@ -365,6 +388,11 @@
 # Miscellaneous articles
 
 * [How do Google engineers work?](google_engineering.md)
+    * [An ex-Googler's guide to dev tools](https://news.ycombinator.com/item?id=25217291)
+    * [xg2xg](https://github.com/jhuangtw/xg2xg)
+    * Monorepo
+        * https://trunkbaseddevelopment.com/monorepos/
+        * [A Hacker News thread](https://news.ycombinator.com/item?id=25218175)
 * [Empathy is the most important leadership skill according to research](https://www.forbes.com/sites/tracybrower/2021/09/19/empathy-is-the-most-important-leadership-skill-according-to-research/) (Forbes) ([cached](attachments/Empathy%20Is%20The%20Most%20Important%20Leadership%20Skill%20According%20To%20Research.pdf))
 * [The law of leaky abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - Joel Spolsky (Wikipedia page: [link](https://en.wikipedia.org/wiki/Leaky_abstraction))
 * [Teach yourself programming in ten years](https://norvig.com/21-days.html) - Peter Norvig
@@ -392,5 +420,6 @@
 * [Failure of IBM Watson](ibm_watson_failure.md) (articles in English and Korean)
 * [Woowa Brothers' engineering culture](https://dbr.donga.com/article/view/1201/article_no/10410/ac/magazine) ([cached](attachments/%E2%80%9C%EC%A7%81%EA%B5%B0%EB%B3%84%20%ED%9A%A1%EC%A0%81%20%EC%A1%B0%EC%A7%81%EC%9C%BC%EB%A1%9C%20%E2%80%98%EC%82%AC%EC%9D%BC%EB%A1%9C%20%EB%AC%B8%EC%A0%9C%E2%80%99%20%ED%95%B4%EA%B2%B0%2C%20%EC%9E%A5%EC%95%A0%20%EB%B0%9C%EC%83%9D%20%EB%95%90%20%EA%B0%9C%EC%9D%B8%20%ED%83%93%20%EC%95%84%EB%8B%8C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B0%9C%EC%84%A0%20%EC%A3%BC%EB%A0%A5%E2%80%9D%20_%20%EC%9D%B8%EC%82%AC_%EC%A1%B0%EC%A7%81%20_%20DBR.pdf))
 * [Introduction to AUTOMATIC DIFFERENTIATION](https://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/) ([cached](attachments/Introduction%20to%20Automatic%20Differentiation.pdf))
+* [The Pivot to Web3 Is Going to Get People Hurt](https://www.vice.com/en/article/jgmyzk/the-pivot-to-web3-is-going-to-get-people-hurt) ([한글요약](https://parksehee.blog/2022/06/06/web3-hysteria/))
 
 [\[top\]](#table-of-contents)
