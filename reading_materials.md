@@ -303,7 +303,7 @@
             * 즉, 엔지니어들에게 해결해야 할 문제와 전략적 맥락(strategic context)을 주고, 엔지니어들이 기술을 활용하여 가장 좋은 해결책을 찾도록 하는 것이다.
             * 혁신의 원천은 엔지니어이다.
 * Ken Norton
-    * [How to Hire a Product Manager](https://www.bringthedonuts.com/essays/productmanager.html) (A famous classic that explains what a PM is) (10 yr anniversary: [link](https://www.bringthedonuts.com/essays/happy-10th-birthday-to-hthapm.html)) (한글 번역 1: [link](https://m.blog.naver.com/careerinspo/221976711074)) (한글 번역 2: [link](https://webuildproduct.com/%EC%96%B4%EB%96%A4-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%A5%BC-%EC%B1%84%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-45396988f6a0))
+    * [How to Hire a Product Manager](https://www.bringthedonuts.com/essays/productmanager.html) (A famous classic that explains what a PM is) (10 yr anniversary: [link](https://www.bringthedonuts.com/essays/happy-10th-birthday-to-hthapm.html)) (한글 번역 1: [link](https://blog.naver.com/careerinspo/221976711074)) (한글 번역 2: [link](https://webuildproduct.com/%EC%96%B4%EB%96%A4-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%A5%BC-%EC%B1%84%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-45396988f6a0))
     * [What Makes A Strong Product Culture?](https://newsletter.bringthedonuts.com/p/what-makes-a-strong-product-culture)
     * [10x Not 10%](https://www.bringthedonuts.com/essays/10x-not-10-percent.html)
     * [How do you make sure your new PM is successful?](https://www.bringthedonuts.com/newsletter/how-do-you-make-sure-a-new-pm-is-successful.html)
@@ -314,7 +314,7 @@
     * [My favorite product management templates](https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37)
     * [The Best of Lenny's Newsletter](https://www.lennysnewsletter.com/p/the-best-of-lennys-newsletter)
     * [PM이 가져야 할 매우 효과적인 습관](https://jihye.oopy.io/pm/habit)
-    * [Getting buy-in](https://www.lennysnewsletter.com/p/getting-buy-in) (한글 요약: [내 의견이 받아들여지게 하는 방법](https://m.blog.naver.com/careerinspo/222399124016)) ([cached](attachments/%5B%EB%89%B4%EC%8A%A4%EB%A0%88%ED%84%B0%5D%20%EB%82%B4%20%EC%9D%98%EA%B2%AC%EC%9D%B4%20%EB%B0%9B%EC%95%84%EB%93%A4%EC%97%AC%EC%A7%80%EA%B2%8C%20%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%20_%20%EB%84%A4%EC%9D%B4%EB%B2%84%20%EB%B8%94%EB%A1%9C%EA%B7%B8.pdf))
+    * [Getting buy-in](https://www.lennysnewsletter.com/p/getting-buy-in) (한글 요약: [내 의견이 받아들여지게 하는 방법](https://blog.naver.com/careerinspo/222399124016)) ([cached](attachments/%5B%EB%89%B4%EC%8A%A4%EB%A0%88%ED%84%B0%5D%20%EB%82%B4%20%EC%9D%98%EA%B2%AC%EC%9D%B4%20%EB%B0%9B%EC%95%84%EB%93%A4%EC%97%AC%EC%A7%80%EA%B2%8C%20%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%20_%20%EB%84%A4%EC%9D%B4%EB%B2%84%20%EB%B8%94%EB%A1%9C%EA%B7%B8.pdf))
 * Sachin Rekhi
     * [Top 100 Resources for Product Managers](https://www.sachinrekhi.com/top-resources-for-product-managers)
     * [3 Types of Product Managers: Builders, Tuners, Innovators](https://www.sachinrekhi.com/3-types-of-product-managers-builders-tuners-innovators)
@@ -326,8 +326,8 @@
 * Melissa Perri
     * [Escaping the Build Trap](https://melissaperri.com/book) (번역판: [link](http://aladin.kr/p/AyivU)) (한글 평: [link](https://bizbuddha.tistory.com/962))
     * [https://melissaperri.com/](https://melissaperri.com/)
-* [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) - Ben Horowitz (한글 번역: [link](https://m.blog.naver.com/careerinspo/221955654535))
-* [Let's talk about Product Management](https://news.greylock.com/let-s-talk-about-product-management-d7bc5606e0c4) - Josh Elman (한글 번역: [link](https://m.blog.naver.com/careerinspo/221963974171))
+* [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) - Ben Horowitz (한글 번역: [link](https://blog.naver.com/careerinspo/221955654535))
+* [Let's talk about Product Management](https://news.greylock.com/let-s-talk-about-product-management-d7bc5606e0c4) - Josh Elman (한글 번역: [link](https://blog.naver.com/careerinspo/221963974171))
 * [Product managers for the digital world](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/product-managers-for-the-digital-world) (참고: [PM유형테스트](https://brunch.co.kr/@windydog/423))
 * [Rework](https://basecamp.com/books/rework) (번역판: [리워크](http://aladin.kr/p/IbO0y))
 * [When should you a hire a Product Manager?](https://medium.com/once-upon-a-team/when-should-you-a-hire-a-product-manager-91e393862150) (한글 번역: [언제 프로덕트 매니저를 채용해야 할까?](https://webuildproduct.com/%EC%96%B8%EC%A0%9C-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%A5%BC-%EC%B1%84%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-ca5fdf076206))
