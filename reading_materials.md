@@ -231,7 +231,7 @@
 * [Effective Engineer](http://www.effectiveengineer.com/) (한글번역: [이펙티브 엔지니어](https://books.google.co.kr/books/about/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4.html?id=Hap5EAAAQBAJ&redir_esc=y), Summary: [English](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f), [Korean](https://dev200ok.blogspot.com/2020/04/dev_13.html))
 * [Meetings That Don’t Suck](https://www.bringthedonuts.com/essays/meetings-that-dont-suck.html) - Ken Norton
     * 한 가지 추가하고 싶은 것: 모든 회의는 결과물이 있어야 한다고 생각한다. 결과물은 대개 의사결정, 액션 아이템, 또는 (단순 회의록이 아닌)문서이다.
-* [Maker's schedule, manager's schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham (한글 번역: [개발자의 시간 관리 vs 관리자의 시간 관리](https://justinchronicles.net/ko/2014/02/07/makers-schedule-managers-schedule/), [관련글 1](https://platum.kr/archives/75646), [관련글 2](https://brunch.co.kr/@davejin/17), [관련글 3](https://topofcomp.tistory.com/498))
+* [Maker's schedule, manager's schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham (한글 번역: [개발자의 시간 관리 vs 관리자의 시간 관리](https://justinchronicles.net/ko/2014/02/07/makers-schedule-managers-schedule/) / [관련글 1](https://platum.kr/archives/75646) / [관련글 2](https://brunch.co.kr/@davejin/17) / [관련글 3](https://topofcomp.tistory.com/498))
 * [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) ([번역판](http://aladin.kr/p/ONrE0), [한글요약1](https://jh4hj.tistory.com/entry/Accelerate-%EB%94%94%EC%A7%80%ED%84%B8-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98-%EC%97%94%EC%A7%84), [한글요약2](https://gowoonsori.com/etc/accelerate/))
 * ["휴식 없으면 집중력 급감"··· MS, 원격 회의와 스트레스 연구 공개](https://www.ciokorea.com/news/191413)
 * [The Good Day Project](https://github.blog/2021-05-25-octoverse-spotlight-good-day-project/)
@@ -278,7 +278,7 @@
 * [성공한 팀장들은 지독하게 솔직… 다만 직구 아닌 변화구로 말한다](https://web.archive.org/web/20200203171507/http://weeklybiz.chosun.com/site/data/html_dir/2019/09/26/2019092602017.html) ([cached](attachments/%5BWEEKLY%20BIZ%5D%20%EC%84%B1%EA%B3%B5%ED%95%9C%20%ED%8C%80%EC%9E%A5%EB%93%A4%EC%9D%80%20%EC%A7%80%EB%8F%85%ED%95%98%EA%B2%8C%20%EC%86%94%EC%A7%81%E2%80%A6%20%EB%8B%A4%EB%A7%8C%20%EC%A7%81%EA%B5%AC%20%EC%95%84%EB%8B%8C%20%EB%B3%80%ED%99%94%EA%B5%AC%EB%A1%9C%20%EB%A7%90%ED%95%9C%EB%8B%A4.pdf))
     * 의견: 솔직한 피드백을 하되 기분 좋게 전달하는 방법이 있으리라 믿습니다. 듣는 사람에게 반발, 저항, 방어하는 마음이 생기지 않도록, 개선할 점을 편안하고 유쾌하게 커뮤니케이션하는 기술이 필요하다고 생각합니다.
 * [StaffEng](https://staffeng.com/)
-* [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) ([번역판](http://aladin.kr/p/NKMCu), [WP article](https://www.washingtonpost.com/news/on-leadership/wp/2015/11/18/how-a-business-book-from-the-80s-became-a-cult-classic-in-silicon-valley/) and [cache](attachments/How%20a%20business%20book%20from%20the%20%E2%80%9980s%20became%20a%20cult%20classic%20in%20Silicon%20Valley%20-%20The%20Washington%20Post.pdf), [Ben Horowitz's essay](https://a16z.com/2015/11/13/high-output-management/), [summary by Ian Tien](https://medium.com/@iantien/top-takeaways-from-andy-grove-s-high-output-management-2e0ecfb1ea63))
+* [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) ([번역판](http://aladin.kr/p/NKMCu) / [WP article](https://www.washingtonpost.com/news/on-leadership/wp/2015/11/18/how-a-business-book-from-the-80s-became-a-cult-classic-in-silicon-valley/) and [cache](attachments/How%20a%20business%20book%20from%20the%20%E2%80%9980s%20became%20a%20cult%20classic%20in%20Silicon%20Valley%20-%20The%20Washington%20Post.pdf) / [Ben Horowitz's essay](https://a16z.com/2015/11/13/high-output-management/) / [summary by Ian Tien](https://medium.com/@iantien/top-takeaways-from-andy-grove-s-high-output-management-2e0ecfb1ea63))
 * [Interview tips for moving up to leadership](https://www.bzarg.com/p/interview-tips-for-moving-up-to-leadership/) ([cached](attachments/Interview%20tips%20for%20moving%20up%20to%20leadership%20_%20Bzarg.pdf))
 
 [\[top\]](#table-of-contents)
@@ -331,7 +331,7 @@
 * [Rework](https://basecamp.com/books/rework) (번역판: [리워크](http://aladin.kr/p/IbO0y))
 * [When should you a hire a Product Manager?](https://medium.com/once-upon-a-team/when-should-you-a-hire-a-product-manager-91e393862150) (한글 번역: [언제 프로덕트 매니저를 채용해야 할까?](https://webuildproduct.com/%EC%96%B8%EC%A0%9C-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%A5%BC-%EC%B1%84%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-ca5fdf076206))
 * Miscellaneous posts
-    * [현재 <개발자>인데 "프로덕트매니저"가 되고 싶다구요?](https://brunch.co.kr/@ywkim36/17)
+    * [현재 개발자인데 "프로덕트매니저"가 되고 싶다구요?](https://brunch.co.kr/@ywkim36/17)
     * [좋은 PM에게 '영혼의 닭고기 수프'와 같은 10권의 책](https://brunch.co.kr/@ywkim36/45)
     * [What is a project manager? The lead role for project success](https://www.cio.com/article/230682/what-is-a-project-manager-the-lead-role-for-project-success.html)
     * [Project management for non-project managers](https://www.atlassian.com/project-management)
