@@ -233,6 +233,7 @@
     * 한 가지 추가하고 싶은 것: 모든 회의는 결과물이 있어야 한다고 생각한다. 결과물은 대개 의사결정, 액션 아이템, 또는 (단순 회의록이 아닌)문서이다.
 * [Maker's schedule, manager's schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham (한글 번역: [개발자의 시간 관리 vs 관리자의 시간 관리](https://justinchronicles.net/ko/2014/02/07/makers-schedule-managers-schedule/), [관련글 1](https://platum.kr/archives/75646), [관련글 2](https://brunch.co.kr/@davejin/17), [관련글 3](https://topofcomp.tistory.com/498))
 * [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) ([번역판](http://aladin.kr/p/ONrE0), [한글요약1](https://jh4hj.tistory.com/entry/Accelerate-%EB%94%94%EC%A7%80%ED%84%B8-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98-%EC%97%94%EC%A7%84), [한글요약2](https://gowoonsori.com/etc/accelerate/))
+* ["휴식 없으면 집중력 급감"··· MS, 원격 회의와 스트레스 연구 공개](https://www.ciokorea.com/news/191413)
 * [The Good Day Project](https://github.blog/2021-05-25-octoverse-spotlight-good-day-project/)
 * [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)
 
@@ -399,6 +400,9 @@
 * [Empathy is the most important leadership skill according to research](https://www.forbes.com/sites/tracybrower/2021/09/19/empathy-is-the-most-important-leadership-skill-according-to-research/) (Forbes) ([cached](attachments/Empathy%20Is%20The%20Most%20Important%20Leadership%20Skill%20According%20To%20Research.pdf))
 * [The law of leaky abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - Joel Spolsky (Wikipedia page: [link](https://en.wikipedia.org/wiki/Leaky_abstraction))
 * [Teach yourself programming in ten years](https://norvig.com/21-days.html) - Peter Norvig
+* [How to Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html) - ESR ([한글번역1](https://wiki.kldp.org/wiki.php/Hacker-HOWTO), [한글번역2](https://blog.naver.com/lronlris/220688872438))
+* [Hackers and Painters](http://www.paulgraham.com/hp.html) - Paul Graham (한글번역 [1](https://besuccess.com/product/hackers-and-painters-1/), [2](https://besuccess.com/product/hackers-and-painters-2/), [3](https://besuccess.com/product/hackers-and-painters-3/), [4](https://besuccess.com/product/hackers-and-painters-4/), [5](https://besuccess.com/product/hackers-and-painters-5/) / cache [1](attachments/%ED%8F%B4%20%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%97%84%EC%9D%98%20%ED%95%B4%EC%BB%A4%EC%99%80%20%ED%99%94%EA%B0%80%20Hackers%20and%20Painters%20(1_5)%20-%20beSUCCESS.pdf), [2](attachments/%ED%8F%B4%20%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%97%84%EC%9D%98%20%ED%95%B4%EC%BB%A4%EC%99%80%20%ED%99%94%EA%B0%80%20Hackers%20and%20Painters%20(2_5)%20-%20beSUCCESS.pdf), [3](attachments/%ED%8F%B4%20%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%97%84%EC%9D%98%20%ED%95%B4%EC%BB%A4%EC%99%80%20%ED%99%94%EA%B0%80%20Hackers%20and%20Painters%20(3_5)%20-%20beSUCCESS.pdf), [4](attachments/%ED%8F%B4%20%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%97%84%EC%9D%98%20%ED%95%B4%EC%BB%A4%EC%99%80%20%ED%99%94%EA%B0%80%20Hackers%20and%20Painters%20(4_5)%20-%20beSUCCESS.pdf), [5](attachments/%ED%8F%B4%20%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%97%84%EC%9D%98%20%ED%95%B4%EC%BB%A4%EC%99%80%20%ED%99%94%EA%B0%80%20Hackers%20and%20Painters%20(5_5)%20-%20beSUCCESS.pdf))
+* [Great Hackers](http://www.paulgraham.com/gh.html) - Paul Graham
 * [Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit) - George Orwell (한글번역: [1](https://blog.daum.net/hjb009/8445446), [2](https://blog.daum.net/hjb009/8445446))
     * 다음은 '조지 오웰 산문선'에서 발췌하였음.
     1. 글에서 자주 본 은유, 직유, 기타 비유적 표현을 절대 사용하지 않는다.
@@ -408,6 +412,7 @@
     5. 같은 뜻의 일상 영어가 생각나면 외래어 문구, 과학 용어, 전문 용어를 절대 쓰지 않는다.
     6. 아주 상스러운 말을 하느니 차라리 위의 원칙을 어긴다.
 * [발표의 정석](attachments/%EB%B0%9C%ED%91%9C%EC%9D%98%20%EC%A0%95%EC%84%9D.pdf) - 하용호
+* [4 Ways Startups Fail](http://blog.eladgil.com/2011/05/4-ways-startups-fail.html) - Elad Gil (an Korean article about it: [link](https://v.daum.net/v/20220820090004009?x_trkm=t))
 * [The Evolution of CPU Processing Power](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU) - YouTube
 * [The universal design pattern](http://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html) - Steve Yegge (Reddit thread: [link](https://www.reddit.com/r/programming/comments/786qn/the_universal_design_pattern_steve_yegge/))
 * [Good agile, bad agile](http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html) - Steve Yegge (Hacker News thread: [link](https://news.ycombinator.com/item?id=3616193))
@@ -424,5 +429,6 @@
 * [Woowa Brothers' engineering culture](https://dbr.donga.com/article/view/1201/article_no/10410/ac/magazine) ([cached](attachments/%E2%80%9C%EC%A7%81%EA%B5%B0%EB%B3%84%20%ED%9A%A1%EC%A0%81%20%EC%A1%B0%EC%A7%81%EC%9C%BC%EB%A1%9C%20%E2%80%98%EC%82%AC%EC%9D%BC%EB%A1%9C%20%EB%AC%B8%EC%A0%9C%E2%80%99%20%ED%95%B4%EA%B2%B0%2C%20%EC%9E%A5%EC%95%A0%20%EB%B0%9C%EC%83%9D%20%EB%95%90%20%EA%B0%9C%EC%9D%B8%20%ED%83%93%20%EC%95%84%EB%8B%8C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B0%9C%EC%84%A0%20%EC%A3%BC%EB%A0%A5%E2%80%9D%20_%20%EC%9D%B8%EC%82%AC_%EC%A1%B0%EC%A7%81%20_%20DBR.pdf))
 * [Introduction to AUTOMATIC DIFFERENTIATION](https://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/) ([cached](attachments/Introduction%20to%20Automatic%20Differentiation.pdf))
 * [The Pivot to Web3 Is Going to Get People Hurt](https://www.vice.com/en/article/jgmyzk/the-pivot-to-web3-is-going-to-get-people-hurt) ([한글요약](https://parksehee.blog/2022/06/06/web3-hysteria/))
+* [창업가들은 왜 ‘넷플릭스 리더십’ 따라하다 직원을 잃는가?](https://n.news.naver.com/article/023/0003710894)
 
 [\[top\]](#table-of-contents)
