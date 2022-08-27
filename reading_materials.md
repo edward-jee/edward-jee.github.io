@@ -152,6 +152,7 @@
 * [The Twelve-Factor App](https://12factor.net/) (한국어판: [link](https://12factor.net/ko/))
 * [React.js, 스프링 부트, AWS로 배우는 웹 개발 101](http://acornpub.co.kr/book/reactjs-springboot) - [김다정](https://cselabnotes.com/kr/sample-page/)
 * [클라우드 인프라 구축 및 활용](http://www.kocw.net/home/cview.do?cid=5d286835fd5cde8c) (KOCW) - An introductory AWS course
+* [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170) - Naver D2
 
 [\[top\]](#table-of-contents)
 
