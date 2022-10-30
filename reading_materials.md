@@ -201,7 +201,10 @@
 * [Effective Java](https://www.oreilly.com/library/view/effective-java/9780134686097/) ([한글 ebook](http://aladin.kr/p/BfloN) / [한글 요약 블로그](https://icarus8050.tistory.com/category/Java/Effective%20Java) / [더 자세히 설명된 블로그](https://hirlawldo.tistory.com/category/%EA%B0%9C%EB%B0%9C/Effective%20Java) / [또 다른 블로그](https://developer-cheol.tistory.com/tag/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%EC%9E%90%EB%B0%94))
 * [Modern Java in Action](https://www.manning.com/books/modern-java-in-action) ([한글 요약 블로그](https://ckddn9496.tistory.com/category/Java/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98))
 * Spring 요약: [pjok1122/Spring-Summary](https://github.com/pjok1122/Spring-Summary)
-* [Java Concurrency](http://tutorials.jenkov.com/java-concurrency/index.html) - Jakob Jenkov ([일부 한글 번역](https://parkcheolu.tistory.com/category/Java/Concurrency))
+* Java Concurrency
+    * [Java Concurrency](http://tutorials.jenkov.com/java-concurrency/index.html) - Jakob Jenkov ([일부 한글 번역](https://parkcheolu.tistory.com/category/Java/Concurrency))
+    * [Java Concurrency Evolution](https://dzone.com/articles/java-concurrency-evolution) ([한글번역](https://homoefficio.github.io/2020/12/11/Java-Concurrency-Evolution/) 및 [cache](attachments/homoefficio.github.io.pdf))
+    * [Virtual Threads: New Foundations for High-Scale Java Applications](https://www.infoq.com/articles/java-virtual-threads/)
 
 [\[top\]](#table-of-contents)
 
