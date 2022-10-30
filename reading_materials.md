@@ -242,13 +242,16 @@
 
 * [The 4 things it takes to be an expert](https://youtu.be/5eW6Eagr9XA)
     * 어떤 영역에서 실력을 키워 전문가가 되는 법
-        * 피드백을 받으면서 반복적으로 수행하기
-        * 뭔가 노력하는 만큼 결과가 좋아지는, valid environment
+        * 피드백을 받으며 많은 횟수를 반복 수행하기
+        * 규칙이 있고 예측 가능한 환경 (잘하든 못하든 결과가 무작위로 나오는 환경이면 안됨)
         * 즉각적으로 받는 피드백
         * Comfort zone을 벗어나기 (본인을 살짝 push하는 환경 및 동기부여요인을 만들어 놓고, 쉽게 할 수 있는 것보다는 간신히 할 수 있는 난이도의 일을 한다)
 * [공부 잘하는 학생, 대한민국 상위 0.1% 학생의 비밀](https://youtu.be/ptiCX_I0fZc)
 * [Great at Work](http://mortenhansen.com/great-at-work/) ([한글요약](https://parksehee.blog/2021/01/22/great-at-work/))
 * [The Talent Code](https://danielcoyle.com/the-talent-code/) ([번역판](http://aladin.kr/p/eyddh))
+* Criticism over "deliberate practice" view
+    * [Researchers suggest amount of practice is not what differentiates great musicians from the merely good](https://phys.org/news/2019-08-amount-differentiates-great-musicians-good.html)
+    * [Is the Deliberate Practice View Defensible? A Review of Evidence and Discussion of Issues](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01134/full)
 
 [\[top\]](#table-of-contents)
 
@@ -298,10 +301,13 @@
 * Marty Cagan
     * [Inspired](https://svpg.com/inspired-how-to-create-products-customers-love/) (번역판: [link](https://jpub.tistory.com/885), 한글 요약: [link](https://parksehee.blog/2022/06/03/inspired/))
     * [https://svpg.com/](https://svpg.com/)
-        * [The Most Important Thing](https://www.svpg.com/the-most-important-thing/)
-            * 피쳐 팀이 아니라 프로덕트 팀이 되기 위해 가장 중요한 것은, 엔지니어들에게 권한을 주는 것이다.
-            * 즉, 엔지니어들에게 해결해야 할 문제와 전략적 맥락(strategic context)을 주고, 엔지니어들이 기술을 활용하여 가장 좋은 해결책을 찾도록 하는 것이다.
-            * 혁신의 원천은 엔지니어이다.
+    * [The Most Important Thing](https://www.svpg.com/the-most-important-thing/)
+        * 피쳐 팀이 아니라 프로덕트 팀이 되기 위해 가장 중요한 것은, 엔지니어들에게 권한을 주는 것이다.
+        * 즉, 엔지니어들에게 해결해야 할 문제와 전략적 맥락(strategic context)을 주고, 엔지니어들이 기술을 활용하여 가장 좋은 해결책을 찾도록 하는 것이다.
+        * 혁신의 원천은 엔지니어이다.
+    * [Product discovery](https://www.svpg.com/product-discovery/)
+        * [Product discovery techniques](https://www.productbookshelf.com/2021/01/product-discovery-techniques/) ([cached](attachments/Product%20Discovery%20Techniques%20-%20Product%20Bookshelf.pdf))
+        * [Product Management: Product Discovery Phase](https://medium.com/@tambolikunal13/product-management-product-discovery-phase-7b97539d5ca7)
 * Ken Norton
     * [How to Hire a Product Manager](https://www.bringthedonuts.com/essays/productmanager.html) (A famous classic that explains what a PM is) (10 yr anniversary: [link](https://www.bringthedonuts.com/essays/happy-10th-birthday-to-hthapm.html)) (한글 번역 1: [link](https://blog.naver.com/careerinspo/221976711074)) (한글 번역 2: [link](https://webuildproduct.com/%EC%96%B4%EB%96%A4-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%A5%BC-%EC%B1%84%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-45396988f6a0))
     * [What Makes A Strong Product Culture?](https://newsletter.bringthedonuts.com/p/what-makes-a-strong-product-culture)
@@ -336,6 +342,8 @@
     * [좋은 PM에게 '영혼의 닭고기 수프'와 같은 10권의 책](https://brunch.co.kr/@ywkim36/45)
     * [What is a project manager? The lead role for project success](https://www.cio.com/article/230682/what-is-a-project-manager-the-lead-role-for-project-success.html)
     * [Project management for non-project managers](https://www.atlassian.com/project-management)
+    * [On Writing Product Roadmaps](https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c)
+    * [On Writing Product Specs](https://goberoi.com/on-writing-product-specs-5ca697b992fd)
     * [PM은 리더가 아니다?··· 프로젝트 관리자들의 8가지 착각](https://www.ciokorea.com/news/146190)
     * [프로젝트 관리에 관한 그릇된 통념 12가지](https://www.ciokorea.com/news/192744)
     * [Product Management for the Enterprise](https://medium.com/@BlairReeves/product-management-for-the-enterprise-f1118798376f)
@@ -344,7 +352,8 @@
 ## How to write a PRD
 
 * [How to Write a Product Requirements Document (PRD)](https://blog.tryexponent.com/how-to-write-a-prd/) (한글 번역: [구글 프로덕트 매니저가 알려주는 기획서 작성 꿀팁](https://brunch.co.kr/@lulina724/26))
-* [How to Write a Good PRD](https://svpg.com/assets/Files/goodprd.pdf) - Martin Cagan
+~~* [How to Write a Good PRD](https://svpg.com/assets/Files/goodprd.pdf) - Martin Cagan~~
+* [Discovery vs. Documentation](https://www.svpg.com/discovery-vs-documentation/) - Marty Cagan
 * [Need more than a PRD? Functional specs to the rescue](https://productmanagementtips.com/2007/11/12/functionalspecs/) - Gopal Shenoy
 * [On Writing Product Spec](https://goberoi.com/on-writing-product-specs-5ca697b992fd) - Gaurav Oberoi (한글 번역: [프로덕트 스펙 문서 작성법](https://brunch.co.kr/@hj-kang/2))
 * [How to Write a Product Requirements Document - With Examples](https://www.perforce.com/blog/alm/how-write-product-requirements-document-prd) (at Perforce blog)
