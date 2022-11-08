@@ -413,9 +413,13 @@
     * [An ex-Googler's guide to dev tools](https://news.ycombinator.com/item?id=25217291)
     * [xg2xg](https://github.com/jhuangtw/xg2xg)
     * Monorepo
-        * https://trunkbaseddevelopment.com/monorepos/
+        * [https://trunkbaseddevelopment.com/monorepos/](https://trunkbaseddevelopment.com/monorepos/)
         * [A Hacker News thread](https://news.ycombinator.com/item?id=25218175)
-    * [Trunk-based development](https://cloud.google.com/architecture/devops/devops-tech-trunk-based-development)
+        * [모던 프론트엔드 프로젝트 구성 기법 - 모노레포 개념 편](https://d2.naver.com/helloworld/0923884) (Naver D2)
+    * Trunk-based development
+        * [https://trunkbaseddevelopment.com/](https://trunkbaseddevelopment.com/)
+        * [DevOps tech: Trunk-based development](https://cloud.google.com/architecture/devops/devops-tech-trunk-based-development) - Google's document, introducing DORA research
+            * The first picture in the document is a bit strange. When we need to change something in a release branch, usually we merge the change into the trunk (master, main) first and then cherrypick it into the release branch, I believe. But the picture says the opposite.
 * [Empathy is the most important leadership skill according to research](https://www.forbes.com/sites/tracybrower/2021/09/19/empathy-is-the-most-important-leadership-skill-according-to-research/) (Forbes) ([cached](attachments/Empathy%20Is%20The%20Most%20Important%20Leadership%20Skill%20According%20To%20Research.pdf))
 * [The law of leaky abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - Joel Spolsky (Wikipedia page: [link](https://en.wikipedia.org/wiki/Leaky_abstraction))
 * [Teach yourself programming in ten years](https://norvig.com/21-days.html) - Peter Norvig
