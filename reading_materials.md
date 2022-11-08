@@ -419,7 +419,7 @@
     * Trunk-based development
         * [https://trunkbaseddevelopment.com/](https://trunkbaseddevelopment.com/)
         * [DevOps tech: Trunk-based development](https://cloud.google.com/architecture/devops/devops-tech-trunk-based-development) - Google's document, introducing DORA research
-            * The first picture in the document is a bit strange. When we need to change something in a release branch, usually we merge the change into the trunk (master, main) first and then cherrypick it into the release branch, I believe. But the picture says the opposite.
+            * The first picture in the document is a bit strange. When we need to change something in a release branch, usually we merge the change into the trunk (master, main) first and then cherrypick it into the release branch, I believe ([See this](https://trunkbaseddevelopment.com/youre-doing-it-wrong/#cherry-pick-of-bug-fixes-from-release-branches-to-the-trunk)). But the picture says the opposite.
 * [Empathy is the most important leadership skill according to research](https://www.forbes.com/sites/tracybrower/2021/09/19/empathy-is-the-most-important-leadership-skill-according-to-research/) (Forbes) ([cached](attachments/Empathy%20Is%20The%20Most%20Important%20Leadership%20Skill%20According%20To%20Research.pdf))
 * [The law of leaky abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - Joel Spolsky (Wikipedia page: [link](https://en.wikipedia.org/wiki/Leaky_abstraction))
 * [Teach yourself programming in ten years](https://norvig.com/21-days.html) - Peter Norvig
