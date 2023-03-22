@@ -428,7 +428,7 @@
     * [올바른 띄어쓰기 사용 가이드](https://tech.kakaoenterprise.com/135?category=882489)
         * 한글에서는 괄호를 앞말에 붙여 쓰고, 영어에서는 여는 괄호 앞에도 닫는 괄호 뒤에도 모두 한 칸씩 띈다.
     * [올바른 문장 부호 사용 가이드](https://tech.kakaoenterprise.com/138?category=882489)
-* 미국 영어에서는 작은 따옴표는 큰 따옴표 안에서만 쓴다.
+* 미국 영어에서는 작은 따옴표는 큰 따옴표 안에서만 쓴다. 영어에서 쉼표와 마침표는 따옴표 안에 넣는다.
     * [영작할 때 올바른 따옴표 사용법](https://blog.naver.com/chattingcat/220918176057)
     * [따옴표, Quotation Marks (“” ‘’)](https://blog.essayreview.co.kr/topic/language-rules/quotation-marks/)
 * 영어에서의 쉼표(comma) 사용법: [link](https://blog.essayreview.co.kr/topic/language-rules/commas/)
