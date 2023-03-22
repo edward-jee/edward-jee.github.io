@@ -27,6 +27,7 @@
 1. [OKR](#okr)
 1. [Hiring](#hiring)
 1. [Decision making](#decision-making)
+1. [Writing like a pro](#writing-like-a-pro)
 1. [Miscellaneous articles](#miscellaneous-articles)
 
 # Documentation
@@ -407,6 +408,44 @@
 
 [\[top\]](#table-of-contents)
 
+# Writing like a pro
+
+* 컴퓨터에서 한글로 문서를 작성할 때에 문장부호를 사용하는 방법에 대하여: [link1](https://www.korea.kr/news/policyNewsView.do?newsId=148787838), [link2](https://kornorms.korean.go.kr/regltn/regltnView.do?regltn_code=0001&regltn_no=714#a714), [link3](https://www.scourt.go.kr/portal/gongbo/PeoplePopupView.work?gubun=24&seqNum=2047), [link4](https://tech.kakaoenterprise.com/138), [link5](https://www.korean.go.kr/front/etcData/etcDataView.do?mn_id=46&etc_seq=431)
+    * 쌍점의 앞에는 빈 칸이 없고 뒤에는 빈 칸이 하나 있음.
+    * 줄임표는 점 여섯 개로 써도, 세 개로 써도 됨. 높이가 가운데 쯤일 필요 없이, 마침표 여러 개로 줄임표를 표현해도 됨.
+    * 가운뎃점 대신 마침표나 쉼표를 쓸 수 있음.
+    * 줄표, 붙임표를 마치 영문에서처럼 쓸 수 있음 (참고: [hyphens and dashes](https://www.grammarly.com/blog/hyphens-and-dashes/))
+    * 빗금을 사용할 수 있음 (상위어 또는 상위 개념이 같으면서도 개념상 대비가 되는 어구들을 하나로 묶어서 나타낼 때).
+* 카카오엔터프라이즈의 테크니컬라이팅 관련 글들
+    * [헷갈리는 맞춤법과 외래어 표기법](https://tech.kakaoenterprise.com/132?category=882489)
+        * 맞히다: 적중하다. 답을 옳게 하다. / 맞추다: 정해진 기준과 일치하도록 하다.
+        * 한번: 시험 삼아 / 한 번: once
+        * 개수, 며칠, 할게요, 금세, 대가, 널찍한, 이따가, 바라요, 설거지
+        * 알고리듬, 애플리케이션, 배지, 비즈니스, 캐시, 칼럼, 콘셉트, 콘퍼런스, 콘텐츠, 컨트롤, 컬처, 제스처, 리더십, 라이선스, 메시지, 내비게이션, 릴리스, 설루션, 타깃, 윈도, 워크숍
+    * [스타일 가이드 톺아보기](https://tech.kakaoenterprise.com/133?category=882489)
+    * [올바른 줄임말 사용 가이드](https://tech.kakaoenterprise.com/134?category=882489)
+        * 이 글 자체에 조금 이상한 부분들이 있습니다. 영문 약어를 풀어쓸 때 각 단어를 대문자로 시작할 필요가 없을 것 같고, 국문으로 된 글 안에 영단어를 넣을 때에도 단어를 대문자로 시작할 필요가 없을 것 같습니다.
+    * [올바른 띄어쓰기 사용 가이드](https://tech.kakaoenterprise.com/135?category=882489)
+        * 한글에서는 괄호를 앞말에 붙여 쓰고, 영어에서는 여는 괄호 앞에도 닫는 괄호 뒤에도 모두 한 칸씩 띈다.
+    * [올바른 문장 부호 사용 가이드](https://tech.kakaoenterprise.com/138?category=882489)
+* 미국 영어에서는 작은 따옴표는 큰 따옴표 안에서만 쓴다.
+    * [영작할 때 올바른 따옴표 사용법](https://blog.naver.com/chattingcat/220918176057)
+    * [따옴표, Quotation Marks (“” ‘’)](https://blog.essayreview.co.kr/topic/language-rules/quotation-marks/)
+* 영어에서의 쉼표(comma) 사용법: [link](https://blog.essayreview.co.kr/topic/language-rules/commas/)
+* 한국에서의 논문 작성 가이드: [1](https://www.kjg.or.kr/contributors/Manuscript_Checklist(Original%20article_KOR).pdf), [2](https://www.membrane.or.kr/down/Manuscript_Submission_Policy_kor.pdf), [3](https://www.kci.go.kr/kciportal/po/search/poInsiSearSoceViewPopup.kci?insiGeneInfoBean.insiId=INS000001107&insiGeneInfoBean.gubunCaseNo=6&isPop=Y)
+    * 논문 작성을 국어로 할 경우 본문 문장 중의 영어의 사용은 가능한 한 억제하고 국어를 사용하되, 영어를 사용하여야 할 경우는 모두 소문자로 쓴다. 다만 문장을 시작하는 곳에 영어 단어가 올 경우는 시작하는 첫 글자만 대문자로 한다.
+    * 단위는 앞의 수와 띄어 쓴다. 단 %(퍼센트)와 °(degree)는 앞의 수에 붙여 쓴다.
+* [Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit) - George Orwell (한글번역: [1](https://blog.daum.net/hjb009/8445446), [2](https://blog.daum.net/hjb009/8445446))
+    * 다음은 '조지 오웰 산문선'에서 발췌하였음.
+    1. 글에서 자주 본 은유, 직유, 기타 비유적 표현을 절대 사용하지 않는다.
+    2. 짧은 단어로 충분할 때는 긴 단어를 절대 사용하지 않는다.
+    3. 어떤 단어를 뺄 수 있을 때는 항상 뺀다.
+    4. 능동태를 쓸 수 있을 때는 수동태를 절대 쓰지 않는다.
+    5. 같은 뜻의 일상 영어가 생각나면 외래어 문구, 과학 용어, 전문 용어를 절대 쓰지 않는다.
+    6. 아주 상스러운 말을 하느니 차라리 위의 원칙을 어긴다.
+
+[\[top\]](#table-of-contents)
+
 # Miscellaneous articles
 
 * [How do Google engineers work?](google_engineering.md)
@@ -424,23 +463,10 @@
 * [The law of leaky abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - Joel Spolsky (Wikipedia page: [link](https://en.wikipedia.org/wiki/Leaky_abstraction))
 * [Teach yourself programming in ten years](https://norvig.com/21-days.html) - Peter Norvig
 * [How to Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html) - ESR ([한글번역1](https://wiki.kldp.org/wiki.php/Hacker-HOWTO), [한글번역2](https://blog.naver.com/lronlris/220688872438))
-* 컴퓨터에서 한글로 문서를 작성할 때에 문장부호를 사용하는 방법에 대하여: [link1](https://www.korea.kr/news/policyNewsView.do?newsId=148787838), [link2](https://kornorms.korean.go.kr/regltn/regltnView.do?regltn_code=0001&regltn_no=714#a714), [link3](https://www.scourt.go.kr/portal/gongbo/PeoplePopupView.work?gubun=24&seqNum=2047), [link4](https://tech.kakaoenterprise.com/138), [link5](https://www.korean.go.kr/front/etcData/etcDataView.do?mn_id=46&etc_seq=431)
-    * 쌍점의 앞에는 빈 칸이 없고 뒤에는 빈 칸이 하나 있음.
-    * 줄임표는 점 여섯 개로 써도, 세 개로 써도 됨. 높이가 가운데 쯤일 필요 없이, 마침표 여러 개로 줄임표를 표현해도 됨.
-    * 가운뎃점 대신 마침표나 쉼표를 쓸 수 있음.
-    * 줄표, 붙임표를 마치 영문에서처럼 쓸 수 있음 (참고: [hyphens and dashes](https://www.grammarly.com/blog/hyphens-and-dashes/))
-    * 빗금을 사용할 수 있음 (상위어 또는 상위 개념이 같으면서도 개념상 대비가 되는 어구들을 하나로 묶어서 나타낼 때).
 * [Hackers and Painters](http://www.paulgraham.com/hp.html) - Paul Graham (한글번역 [1](https://besuccess.com/product/hackers-and-painters-1/), [2](https://besuccess.com/product/hackers-and-painters-2/), [3](https://besuccess.com/product/hackers-and-painters-3/), [4](https://besuccess.com/product/hackers-and-painters-4/), [5](https://besuccess.com/product/hackers-and-painters-5/) / cache [1](attachments/%ED%8F%B4%20%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%97%84%EC%9D%98%20%ED%95%B4%EC%BB%A4%EC%99%80%20%ED%99%94%EA%B0%80%20Hackers%20and%20Painters%20(1_5)%20-%20beSUCCESS.pdf), [2](attachments/%ED%8F%B4%20%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%97%84%EC%9D%98%20%ED%95%B4%EC%BB%A4%EC%99%80%20%ED%99%94%EA%B0%80%20Hackers%20and%20Painters%20(2_5)%20-%20beSUCCESS.pdf), [3](attachments/%ED%8F%B4%20%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%97%84%EC%9D%98%20%ED%95%B4%EC%BB%A4%EC%99%80%20%ED%99%94%EA%B0%80%20Hackers%20and%20Painters%20(3_5)%20-%20beSUCCESS.pdf), [4](attachments/%ED%8F%B4%20%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%97%84%EC%9D%98%20%ED%95%B4%EC%BB%A4%EC%99%80%20%ED%99%94%EA%B0%80%20Hackers%20and%20Painters%20(4_5)%20-%20beSUCCESS.pdf), [5](attachments/%ED%8F%B4%20%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%97%84%EC%9D%98%20%ED%95%B4%EC%BB%A4%EC%99%80%20%ED%99%94%EA%B0%80%20Hackers%20and%20Painters%20(5_5)%20-%20beSUCCESS.pdf))
 * [Great Hackers](http://www.paulgraham.com/gh.html) - Paul Graham
-* [Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit) - George Orwell (한글번역: [1](https://blog.daum.net/hjb009/8445446), [2](https://blog.daum.net/hjb009/8445446))
-    * 다음은 '조지 오웰 산문선'에서 발췌하였음.
-    1. 글에서 자주 본 은유, 직유, 기타 비유적 표현을 절대 사용하지 않는다.
-    2. 짧은 단어로 충분할 때는 긴 단어를 절대 사용하지 않는다.
-    3. 어떤 단어를 뺄 수 있을 때는 항상 뺀다.
-    4. 능동태를 쓸 수 있을 때는 수동태를 절대 쓰지 않는다.
-    5. 같은 뜻의 일상 영어가 생각나면 외래어 문구, 과학 용어, 전문 용어를 절대 쓰지 않는다.
-    6. 아주 상스러운 말을 하느니 차라리 위의 원칙을 어긴다.
-* [발표의 정석](attachments/%EB%B0%9C%ED%91%9C%EC%9D%98%20%EC%A0%95%EC%84%9D.pdf) - 하용호
+* [발표의 정석](attachments/%EB%B0%9C%ED%91%9C%EC%9D%98%20%EC%A0%95%EC%84%9D.pdf) - 하용호 (* [강의 영상](https://youtu.be/2SfvqNZwnDU))
+* [스토리텔링 성공을 위한 7가지 원칙](https://news.sap.com/korea/2022/08/%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81-%EC%84%B1%EA%B3%B5%EC%9D%84-%EC%9C%84%ED%95%9C-7%EA%B0%80%EC%A7%80-%EC%9B%90%EC%B9%99/)
 * [4 Ways Startups Fail](http://blog.eladgil.com/2011/05/4-ways-startups-fail.html) - Elad Gil (an Korean article about it: [link](https://v.daum.net/v/20220820090004009?x_trkm=t))
 * [The Evolution of CPU Processing Power](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU) - YouTube
 * [The universal design pattern](http://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html) - Steve Yegge (Reddit thread: [link](https://www.reddit.com/r/programming/comments/786qn/the_universal_design_pattern_steve_yegge/))
