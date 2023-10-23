@@ -362,7 +362,7 @@
 ## How to write a PRD
 
 * [How to Write a Product Requirements Document (PRD)](https://blog.tryexponent.com/how-to-write-a-prd/) (한글 번역: [구글 프로덕트 매니저가 알려주는 기획서 작성 꿀팁](https://brunch.co.kr/@lulina724/26))
-~~* [How to Write a Good PRD](https://svpg.com/assets/Files/goodprd.pdf) - Martin Cagan~~
+* ~~[How to Write a Good PRD](https://svpg.com/assets/Files/goodprd.pdf) - Martin Cagan~~
 * [Discovery vs. Documentation](https://www.svpg.com/discovery-vs-documentation/) - Marty Cagan
 * [Need more than a PRD? Functional specs to the rescue](https://productmanagementtips.com/2007/11/12/functionalspecs/) - Gopal Shenoy
 * [On Writing Product Spec](https://goberoi.com/on-writing-product-specs-5ca697b992fd) - Gaurav Oberoi (한글 번역: [프로덕트 스펙 문서 작성법](https://brunch.co.kr/@hj-kang/2))
@@ -435,7 +435,7 @@
 * 한국에서의 논문 작성 가이드: [1](https://www.kjg.or.kr/contributors/Manuscript_Checklist(Original%20article_KOR).pdf), [2](https://www.membrane.or.kr/down/Manuscript_Submission_Policy_kor.pdf), [3](https://www.kci.go.kr/kciportal/po/search/poInsiSearSoceViewPopup.kci?insiGeneInfoBean.insiId=INS000001107&insiGeneInfoBean.gubunCaseNo=6&isPop=Y)
     * 논문 작성을 국어로 할 경우 본문 문장 중의 영어의 사용은 가능한 한 억제하고 국어를 사용하되, 영어를 사용하여야 할 경우는 모두 소문자로 쓴다. 다만 문장을 시작하는 곳에 영어 단어가 올 경우는 시작하는 첫 글자만 대문자로 한다.
     * 단위는 앞의 수와 띄어 쓴다. 단 %(퍼센트)와 °(degree)는 앞의 수에 붙여 쓴다.
-* [Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit) - George Orwell (한글번역: [1](https://blog.daum.net/hjb009/8445446), [2](https://blog.daum.net/hjb009/8445446))
+* [Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit) - George Orwell (한글 번역 및 평: [1](https://web.archive.org/web/20201101073018/https://blog.daum.net/hjb009/8445446), [2](http://readme.kr/?page_id=12515), [3](https://brunch.co.kr/@alley334/116))
     * 다음은 '조지 오웰 산문선'에서 발췌하였음.
     1. 글에서 자주 본 은유, 직유, 기타 비유적 표현을 절대 사용하지 않는다.
     2. 짧은 단어로 충분할 때는 긴 단어를 절대 사용하지 않는다.
