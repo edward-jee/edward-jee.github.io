@@ -361,8 +361,11 @@
 
 ## How to write a PRD
 
+* [The ultimate collection of PRD templates](https://www.edovanroyen.com/p/the-ultimate-collection-of-prd-templates) - Edo van Royen
+* [What is the best way to write a PRD? With PRD examples from companies you look upto!](https://www.vindhyac.com/posts/best-prd-templates-from-companies-we-adore/) - Vindhya C
+* [Is the Product Requirements Document Dead? A Debate.](https://www.uservoice.com/blog/is-the-product-requirements-document-dead)
 * [How to Write a Product Requirements Document (PRD)](https://blog.tryexponent.com/how-to-write-a-prd/) (한글 번역: [구글 프로덕트 매니저가 알려주는 기획서 작성 꿀팁](https://brunch.co.kr/@lulina724/26))
-* ~~[How to Write a Good PRD](https://svpg.com/assets/Files/goodprd.pdf) - Martin Cagan~~
+* ~~[How to Write a Good PRD](https://svpg.com/assets/Files/goodprd.pdf) - Martin Cagan~~ (The author doesn't recommend this anymore.)
 * [Discovery vs. Documentation](https://www.svpg.com/discovery-vs-documentation/) - Marty Cagan
 * [Need more than a PRD? Functional specs to the rescue](https://productmanagementtips.com/2007/11/12/functionalspecs/) - Gopal Shenoy
 * [On Writing Product Spec](https://goberoi.com/on-writing-product-specs-5ca697b992fd) - Gaurav Oberoi (한글 번역: [프로덕트 스펙 문서 작성법](https://brunch.co.kr/@hj-kang/2))
