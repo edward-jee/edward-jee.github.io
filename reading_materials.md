@@ -302,6 +302,7 @@
 * [Building a great product management organization](https://stripe.com/atlas/guides/building-a-great-pm-org) (Stripe Atlas guide) - Elad Gil
 * [How 51 leading tech teams define the Product Manager role](https://producthabits.com/product-manager-job-description/) (한글 번역: [실리콘밸리 51개 기업들이 말하는 프로덕트 매니저의 역할 9가지](http://blog.wishket.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-51%EA%B0%9C-%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EC%9D%98/))
 * [채용 공고 뜯어보며 PM 직무 이해하기](https://brunch.co.kr/@moon9410/43)
+* [프로덕트 매니저(Product Manager)란?](https://sungmooncho.com/2012/01/16/product-manager/) - 조성문의 블로그
 * [사업 폭넓게 정의하고 실패 땐 빨리 인정, 피버팅 대명사 ‘슬랙’도 그렇게 탄생했다](https://dbr.donga.com/article/view/1203/article_no/9898/ac/a_view) ([cached](attachments/%EC%82%AC%EC%97%85%20%ED%8F%AD%EB%84%93%EA%B2%8C%20%EC%A0%95%EC%9D%98%ED%95%98%EA%B3%A0%20%EC%8B%A4%ED%8C%A8%20%EB%95%90%20%EB%B9%A8%EB%A6%AC%20%EC%9D%B8%EC%A0%95%2C%20%ED%94%BC%EB%B2%84%ED%8C%85%20%EB%8C%80%EB%AA%85%EC%82%AC%20%E2%80%98%EC%8A%AC%EB%9E%99%E2%80%99%EB%8F%84%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%ED%83%84%EC%83%9D%ED%96%88%EB%8B%A4%20_%20%EA%B2%BD%EC%98%81%EC%A0%84%EB%9E%B5%20_%20DBR.pdf)) - Dong-A Business Review
 * [On Writing Product Roadmaps](https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c) - Gaurav Oberoi
 * Jackie Bavaro
