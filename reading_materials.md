@@ -267,14 +267,18 @@
 
 # Engineering management
 
-* [The Making of a Manager](https://www.juliezhuo.com/book/manager.html) (한글번역: [팀장의 탄생](https://www.gilbut.co.kr/book/view?bookcode=BN002858), Summary in English: [link](https://fellow.app/blog/management/julie-zhuo-the-making-of-a-manager/)) 
+* [The Making of a Manager](https://www.juliezhuo.com/book/manager.html)
+    * A guide for newbie managers. Silicon Valley way.
+    * 한글번역: [팀장의 탄생](https://www.gilbut.co.kr/book/view?bookcode=BN002858)
+    * Summary in English: [link](https://fellow.app/blog/management/julie-zhuo-the-making-of-a-manager/)
+    * Summary in Korean: [link](https://parksehee.blog/2023/06/29/the-making-of-a-manager/)
 * [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) (한글번역: [개발 7년차, 매니저 1년차](http://aladin.kr/p/4WyAq))
     * [한빛출판네트워크 편집자 Choice](https://www.hanbit.co.kr/channel/choice/editor_choice_view.html?cms_code=CMS9150073010)
-* [어서 와, 리더는 처음이지?](https://brunch.co.kr/brunchbook/youngleaders)
+* [어서 와, 리더는 처음이지?](https://brunch.co.kr/brunchbook/youngleaders) (A guide for newbie managers. Consistent with what I learned in Silicon Valley.)
 * [Scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng) - Raylene Yung (Stripe)
 * [Software Engineering at Google](https://arxiv.org/abs/1702.01715) (짧고 읽기 쉬운 논문) (한글번역: [링크](https://blog.naver.com/junechol/221495080367), [cached](attachments/junechol-Software%20Engineering%20at%20Google.pdf)) ([한글요약](https://docs.likejazz.com/software-engineering-at-google/))
 * [Software Engineering at Google](https://abseil.io/resources/swe-book) (두껍지만 읽기 쉬운 책) (5장 번역: [링크](https://blog.naver.com/junechol/222592134145), [cached](attachments/junechol-chap5.pdf) / 6장 번역: [링크](https://blog.naver.com/junechol/222602505041), [cached](attachments/junechol-chap6.pdf))
-* 실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가? ([1편](https://sendbird.com/ko/blog/eng-leader-role-1), [2편](https://sendbird.com/ko/blog/eng-leader-role-2))
+* 실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가? ([1편 영문판](https://sendbird.com/ko/blog/eng-leader-role-1), [1편 국문판](https://web.archive.org/web/20230206133847/https://sendbird.com/ko/blog/eng-leader-role-1), [2편 국문판](https://sendbird.com/ko/blog/eng-leader-role-2))
 * [Google's Project Aristotle](https://rework.withgoogle.com/guides/understanding-team-effectiveness/) - What makes a team effective?
     * The New York Times Magazine's article about this: [link](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) / [cached (no sign-in)](attachments/What%20Google%20Learned%20From%20Its%20Quest%20to%20Build%20the%20Perfect%20Team%20-%20The%20New%20York%20Times.pdf)
         * The article is long. You can start from "But what was confusing was that not all the good teams appeared to behave in the same ways."
@@ -450,7 +454,7 @@
 
 [\[top\]](#table-of-contents)
 
-# Miscellaneous articles
+# Miscellaneous articles & books
 
 * [How do Google engineers work?](google_engineering.md)
     * [An ex-Googler's guide to dev tools](https://news.ycombinator.com/item?id=25217291)
@@ -489,5 +493,24 @@
 * [Introduction to AUTOMATIC DIFFERENTIATION](https://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/) ([cached](attachments/Introduction%20to%20Automatic%20Differentiation.pdf))
 * [The Pivot to Web3 Is Going to Get People Hurt](https://www.vice.com/en/article/jgmyzk/the-pivot-to-web3-is-going-to-get-people-hurt) ([한글요약](https://parksehee.blog/2022/06/06/web3-hysteria/))
 * [창업가들은 왜 ‘넷플릭스 리더십’ 따라하다 직원을 잃는가?](https://n.news.naver.com/article/023/0003710894)
+* Loonshots - Safi Bahcall
+    * A theory about how to nurture moonshot projects, separately from the main business.
+    * Summary in Korean: [link](https://books-for-liberty.tistory.com/entry/%EB%A3%AC%EC%83%B7-%EB%82%B4%EC%9A%A9-%EC%9A%94%EC%95%BD-%EC%A0%80%EC%9E%90-%EC%86%8C%EA%B0%9C-%EC%84%B8-%EA%B0%80%EC%A7%80-%ED%95%B5%EC%8B%AC%ED%8F%AC%EC%9D%B8%ED%8A%B8)
+* Working Backwards - Bill Carr and Colin Bryar
+    * Describes the way Amazon people work.
+    * Summaries in Korean: [link1](https://brunch.co.kr/@booker/24), [link2](https://kmowledge-store.tistory.com/entry/%EC%B1%85-%EC%88%9C%EC%84%9C-%ED%8C%8C%EA%B4%B4-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%8A%90%EB%82%80-%EC%A0%90-%EC%A0%81%EC%9A%A9%ED%95%A0-%EC%A0%90)
+* [The Hard Thing about Hard Things](https://a16z.com/books/the-hard-thing-about-hard-things/) - Ben Horowitz
+    * Good for C-suites or VPs of startups. We can learn Silicon Valley tech companies' cultures and philosophies from this book.
+    * Excerpts in Korean: [link](https://parksehee.blog/2022/11/06/hard-thing/)
+* 눈 떠보니 선진국 - 박태웅
+    * ['기계가 읽을 수 있어야 한다!' 데이터 공개의 제1원칙](https://www.inews24.com/view/1263751)
+    * [눈을 떠보니 선진국이 돼 있었다](https://www.inews24.com/view/1333621)
+    * [경로(經路)의 저주](https://inews24.com/view/1351407)
+    * [시간이 걸린다](https://www.inews24.com/view/1357588)
+    * [셰익스피어가 필요한 때](https://www.inews24.com/view/1365360)
+    * [뉴런의 자유결합, 선진국의 조건](https://www.inews24.com/view/1368609)
+    * [물은 땅이 패인 모양을 따라 흐른다](https://www.inews24.com/view/1371842)
+    * 좀 더 옛날 아티클들: [1](https://www.inews24.com/view/646) [2](https://www.inews24.com/view/1224586) [3](https://www.inews24.com/view/1238933) [4](https://www.inews24.com/view/1242927) [5](https://www.inews24.com/view/1259922)
+* [What matters most? Eight CEO priorities for 2024](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/what-matters-most-eight-ceo-priorities-for-2024) (Korean edition: [link](https://news.sap.com/korea/2023/12/%eb%a7%a5%ed%82%a8%ec%a7%80%ea%b0%80-%ec%a0%9c%ec%8b%9c%ed%95%98%eb%8a%94-2024%eb%85%84-8%eb%8c%80-ceo-%ec%9a%b0%ec%84%a0%ec%88%9c%ec%9c%84/))
 
 [\[top\]](#table-of-contents)
