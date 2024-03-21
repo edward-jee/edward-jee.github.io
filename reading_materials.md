@@ -61,12 +61,25 @@
         * [An Intuitive Guide to Reinforcement Learning](https://roboticseabass.com/2020/08/02/an-intuitive-guide-to-reinforcement-learning/) ([cached](attachments/RL1%20An%20Intuitive%20Guide%20to%20Reinforcement%20Learning%20-%20Robotic%20Sea%20Bass.pdf))
         * [Introduction to Deep Reinforcement Learning](https://roboticseabass.com/2020/08/15/introduction-to-deep-reinforcement-learning/) ([cached](attachments/RL2%20Introduction%20to%20Deep%20Reinforcement%20Learning%20-%20Robotic%20Sea%20Bass.pdf))
         * [Reinforcement Learning: Looking Ahead and Getting Started](https://roboticseabass.com/2020/08/22/reinforcement-learning-looking-ahead-and-getting-started/) ([cached](attachments/RL3%20Reinforcement%20Learning_%20Looking%20Ahead%20and%20Getting%20Started%20-%20Robotic%20Sea%20Bass.pdf))
-* Large language models
-    * [Large Language Model Course](https://github.com/mlabonne/llm-course) by Maxime Labonne
-    * [[1hr Talk] Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g) by Andrej Karpathy
-    * [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY) by Andrej Karpathy
-    * [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html#watch-the-lessons)
-    * [What is Retrieval-Augmented Generation (RAG)?](https://youtu.be/T-D1OfcDW1M)
+* Large language model (LLM)
+    * Understanding LLM
+        * [Large Language Model Course](https://github.com/mlabonne/llm-course) by Maxime Labonne
+        * [[1hr Talk] Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g) by Andrej Karpathy
+        * [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY) by Andrej Karpathy
+        * [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html#watch-the-lessons)
+        * [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training](https://arxiv.org/abs/2403.09611)
+            * Apple's recent paper
+            * Video summary: [link](https://youtu.be/QB5cSqrESlE)
+            * Summary in Korean: [link](https://fornewchallenge.tistory.com/entry/MM1-%EC%95%A0%ED%94%8C%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8)
+    * RAG & LangChain
+        * [랭체인(LangChain)의 개념과 이해](https://www.samsungsds.com/kr/insights/the-concept-of-langchain.html)
+        * [What is Retrieval-Augmented Generation (RAG)?](https://youtu.be/T-D1OfcDW1M)
+        * 테디노트's articles
+            * [LangChain으로 네이버 뉴스 기반 Q&A 애플리케이션 구축하기 - 기본편](https://teddylee777.github.io/langchain/rag-naver-news-qa/)
+            * [LangChain RAG 파헤치기: 문서 기반 QA 시스템 설계 방법 - 심화편](https://teddylee777.github.io/langchain/rag-tutorial/)
+    * Prompt engineering
+        * [Prompt Engineering Guide](https://www.promptingguide.ai/)
+        * [생성형 AI 모델과 대화하는 프롬프트 엔지니어링(Prompt Engineering)](https://www.samsungsds.com/kr/insights/prompt-engineering.html)
 * [Papers With Code](https://paperswithcode.com/)
 * [The most important AI trends in 2024](https://youtu.be/sGZ6AlAnULc)
 
