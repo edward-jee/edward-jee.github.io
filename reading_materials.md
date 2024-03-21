@@ -62,8 +62,8 @@
         * [Introduction to Deep Reinforcement Learning](https://roboticseabass.com/2020/08/15/introduction-to-deep-reinforcement-learning/) ([cached](attachments/RL2%20Introduction%20to%20Deep%20Reinforcement%20Learning%20-%20Robotic%20Sea%20Bass.pdf))
         * [Reinforcement Learning: Looking Ahead and Getting Started](https://roboticseabass.com/2020/08/22/reinforcement-learning-looking-ahead-and-getting-started/) ([cached](attachments/RL3%20Reinforcement%20Learning_%20Looking%20Ahead%20and%20Getting%20Started%20-%20Robotic%20Sea%20Bass.pdf))
 * Large language model (LLM)
+    * [Large Language Model Course](https://github.com/mlabonne/llm-course) by Maxime Labonne
     * Understanding LLM
-        * [Large Language Model Course](https://github.com/mlabonne/llm-course) by Maxime Labonne
         * [[1hr Talk] Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g) by Andrej Karpathy
         * [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY) by Andrej Karpathy
         * [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html#watch-the-lessons)
@@ -73,10 +73,21 @@
             * Summary in Korean: [link](https://fornewchallenge.tistory.com/entry/MM1-%EC%95%A0%ED%94%8C%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8)
     * RAG & LangChain
         * [랭체인(LangChain)의 개념과 이해](https://www.samsungsds.com/kr/insights/the-concept-of-langchain.html)
+        * [“환각 없이 믿을 수 있는 LLM” 검색 증강 생성(RAG)의 이해](https://www.itworld.co.kr/topnews/322655)
         * [What is Retrieval-Augmented Generation (RAG)?](https://youtu.be/T-D1OfcDW1M)
         * 테디노트's articles
             * [LangChain으로 네이버 뉴스 기반 Q&A 애플리케이션 구축하기 - 기본편](https://teddylee777.github.io/langchain/rag-naver-news-qa/)
             * [LangChain RAG 파헤치기: 문서 기반 QA 시스템 설계 방법 - 심화편](https://teddylee777.github.io/langchain/rag-tutorial/)
+            * [랭체인(langchain)의 OpenAI GPT 모델(ChatOpenAI) 사용법 (1)](https://teddylee777.github.io/langchain/langchain-tutorial-01)
+            * [랭체인(langchain) + 허깅페이스(HuggingFace) 모델 사용법 (2)](https://teddylee777.github.io/langchain/langchain-tutorial-02)
+            * [랭체인(langchain) + 챗(chat) - ConversationChain, 템플릿 사용법 (3)](https://teddylee777.github.io/langchain/langchain-tutorial-03)
+            * [랭체인(langchain) + 정형데이터(CSV, Excel) - ChatGPT 기반 데이터분석 (4)](https://teddylee777.github.io/langchain/langchain-tutorial-04)
+            * [랭체인(langchain) + 웹사이트 크롤링 - 웹사이트 문서 요약 (5)](https://teddylee777.github.io/langchain/langchain-tutorial-05)
+            * [랭체인(langchain) + 웹사이트 정보 추출 - 스키마 활용법 (6)](https://teddylee777.github.io/langchain/langchain-tutorial-06/)
+            * [랭체인(langchain) + PDF 문서요약, Map-Reduce (7)](https://teddylee777.github.io/langchain/langchain-tutorial-07/)
+            * [랭체인(langchain) + PDF 기반 질의응답(Question-Answering) (8)](https://teddylee777.github.io/langchain/langchain-tutorial-08/)
+        * [랭체인(LangChain) 입문부터 응용까지](https://wikidocs.net/book/14473)
+        * [Langchain is NOT for production use. Here is why ..](https://medium.com/@aldendorosario/langchain-is-not-for-production-use-here-is-why-9f1eca6cce80) (한국어 번역: [link](https://lapina.tistory.com/233))
     * Prompt engineering
         * [Prompt Engineering Guide](https://www.promptingguide.ai/)
         * [생성형 AI 모델과 대화하는 프롬프트 엔지니어링(Prompt Engineering)](https://www.samsungsds.com/kr/insights/prompt-engineering.html)
