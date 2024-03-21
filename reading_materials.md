@@ -307,6 +307,7 @@
 * [How 51 leading tech teams define the Product Manager role](https://producthabits.com/product-manager-job-description/) (한글 번역: [실리콘밸리 51개 기업들이 말하는 프로덕트 매니저의 역할 9가지](http://blog.wishket.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-51%EA%B0%9C-%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EC%9D%98/))
 * [채용 공고 뜯어보며 PM 직무 이해하기](https://brunch.co.kr/@moon9410/43)
 * [프로덕트 매니저(Product Manager)란?](https://sungmooncho.com/2012/01/16/product-manager/) - 조성문의 블로그
+* [Shyvee Shi's LinkedIn post (templates and frameworks for PMs)](https://www.linkedin.com/posts/shyveeshi_productmanagement-ai-generativeai-activity-7175872398582255616-ev-I)
 * [사업 폭넓게 정의하고 실패 땐 빨리 인정, 피버팅 대명사 ‘슬랙’도 그렇게 탄생했다](https://dbr.donga.com/article/view/1203/article_no/9898/ac/a_view) ([cached](attachments/%EC%82%AC%EC%97%85%20%ED%8F%AD%EB%84%93%EA%B2%8C%20%EC%A0%95%EC%9D%98%ED%95%98%EA%B3%A0%20%EC%8B%A4%ED%8C%A8%20%EB%95%90%20%EB%B9%A8%EB%A6%AC%20%EC%9D%B8%EC%A0%95%2C%20%ED%94%BC%EB%B2%84%ED%8C%85%20%EB%8C%80%EB%AA%85%EC%82%AC%20%E2%80%98%EC%8A%AC%EB%9E%99%E2%80%99%EB%8F%84%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%ED%83%84%EC%83%9D%ED%96%88%EB%8B%A4%20_%20%EA%B2%BD%EC%98%81%EC%A0%84%EB%9E%B5%20_%20DBR.pdf)) - Dong-A Business Review
 * [On Writing Product Roadmaps](https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c) - Gaurav Oberoi
 * Jackie Bavaro
@@ -353,6 +354,7 @@
 * [Rework](https://basecamp.com/books/rework) (번역판: [리워크](http://aladin.kr/p/IbO0y))
 * [When should you a hire a Product Manager?](https://medium.com/once-upon-a-team/when-should-you-a-hire-a-product-manager-91e393862150) (한글 번역: [언제 프로덕트 매니저를 채용해야 할까?](https://webuildproduct.com/%EC%96%B8%EC%A0%9C-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%A5%BC-%EC%B1%84%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-ca5fdf076206))
 * Miscellaneous posts
+    * [Sookhyeon Cho's LinkedIn post](https://www.linkedin.com/posts/sookhyeon-cho-b8a9b6137_product-manager-you-are-activity-7168502415091073024-Dv7-)
     * [현재 개발자인데 "프로덕트매니저"가 되고 싶다구요?](https://brunch.co.kr/@ywkim36/17)
     * [좋은 PM에게 '영혼의 닭고기 수프'와 같은 10권의 책](https://brunch.co.kr/@ywkim36/45)
     * [What is a project manager? The lead role for project success](https://www.cio.com/article/230682/what-is-a-project-manager-the-lead-role-for-project-success.html)
