@@ -48,7 +48,6 @@
     * [쉽게 풀어쓴 딥러닝의 거의 모든 것](http://t-robotics.blogspot.com/2015/05/deep-learning.html)
     * Andrew Ng's lecture on deep learning (한글 자막 및 한글 가이드 있음): [step 1](https://www.boostcourse.org/ai215), [step 2](https://www.boostcourse.org/ai216), [step 3](https://www.boostcourse.org/ai217), [step 4](https://www.boostcourse.org/ai218)
         * Direct links (no sign-in): [step 1](https://www.boostcourse.org/ai215/joinLectures/86246), [step 2](https://www.boostcourse.org/ai216/joinLectures/132203), [step 3](https://www.boostcourse.org/ai217/joinLectures/132223), [step 4](https://www.boostcourse.org/ai218/joinLectures/138357)
-    * [골빈해커의 3분 딥러닝 텐서플로맛](https://www.hanbit.co.kr/store/books/look.php?p_code=B7257101308)
 * Computer vision
     * [컴퓨터비전](http://www.kocw.net/home/cview.do?cid=1b1f5b73413060b5) (KOCW)
     * [딥러닝과 컴퓨터비전](http://www.kocw.net/home/cview.do?cid=ed866750e14cedd6) (KOCW)
@@ -62,7 +61,14 @@
         * [An Intuitive Guide to Reinforcement Learning](https://roboticseabass.com/2020/08/02/an-intuitive-guide-to-reinforcement-learning/) ([cached](attachments/RL1%20An%20Intuitive%20Guide%20to%20Reinforcement%20Learning%20-%20Robotic%20Sea%20Bass.pdf))
         * [Introduction to Deep Reinforcement Learning](https://roboticseabass.com/2020/08/15/introduction-to-deep-reinforcement-learning/) ([cached](attachments/RL2%20Introduction%20to%20Deep%20Reinforcement%20Learning%20-%20Robotic%20Sea%20Bass.pdf))
         * [Reinforcement Learning: Looking Ahead and Getting Started](https://roboticseabass.com/2020/08/22/reinforcement-learning-looking-ahead-and-getting-started/) ([cached](attachments/RL3%20Reinforcement%20Learning_%20Looking%20Ahead%20and%20Getting%20Started%20-%20Robotic%20Sea%20Bass.pdf))
+* Large language models
+    * [Large Language Model Course](https://github.com/mlabonne/llm-course) by Maxime Labonne
+    * [[1hr Talk] Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g) by Andrej Karpathy
+    * [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY) by Andrej Karpathy
+    * [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html#watch-the-lessons)
+    * [What is Retrieval-Augmented Generation (RAG)?](https://youtu.be/T-D1OfcDW1M)
 * [Papers With Code](https://paperswithcode.com/)
+* [The most important AI trends in 2024](https://youtu.be/sGZ6AlAnULc)
 
 [\[top\]](#table-of-contents)
 
