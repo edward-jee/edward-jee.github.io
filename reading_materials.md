@@ -451,7 +451,7 @@
 # Writing like a pro
 
 * 컴퓨터에서 한글로 문서를 작성할 때에 문장부호를 사용하는 방법에 대하여: [link1](https://www.korea.kr/news/policyNewsView.do?newsId=148787838), [link2](https://kornorms.korean.go.kr/regltn/regltnView.do?regltn_code=0001&regltn_no=714#a714), [link3](https://www.scourt.go.kr/portal/gongbo/PeoplePopupView.work?gubun=24&seqNum=2047), [link4](https://tech.kakaoenterprise.com/138), [link5](https://www.korean.go.kr/front/etcData/etcDataView.do?mn_id=46&etc_seq=431)
-    * 쌍점의 앞에는 빈 칸이 없고 뒤에는 빈 칸이 하나 있음.
+    * 쌍점의 앞에는 빈 칸이 없고 뒤에는 빈 칸이 하나 있음(몇 대 몇, 몇 장 몇 절 등에 쓰이는 경우에는 쌍점 뒤에도 빈 칸이 없음).
     * 줄임표는 점 여섯 개로 써도, 세 개로 써도 됨. 높이가 가운데 쯤일 필요 없이, 마침표 여러 개로 줄임표를 표현해도 됨.
     * 가운뎃점 대신 마침표나 쉼표를 쓸 수 있음.
     * 줄표, 붙임표를 마치 영문에서처럼 쓸 수 있음 (참고: [hyphens and dashes](https://www.grammarly.com/blog/hyphens-and-dashes/))
@@ -473,8 +473,8 @@
     * [따옴표, Quotation Marks (“” ‘’)](https://blog.essayreview.co.kr/topic/language-rules/quotation-marks/)
 * 영어에서의 쉼표(comma) 사용법: [link](https://blog.essayreview.co.kr/topic/language-rules/commas/)
 * 한국에서의 논문 작성 가이드: [1](https://www.kjg.or.kr/contributors/Manuscript_Checklist(Original%20article_KOR).pdf), [2](https://www.membrane.or.kr/down/Manuscript_Submission_Policy_kor.pdf), [3](https://www.kci.go.kr/kciportal/po/search/poInsiSearSoceViewPopup.kci?insiGeneInfoBean.insiId=INS000001107&insiGeneInfoBean.gubunCaseNo=6&isPop=Y)
-    * 논문 작성을 국어로 할 경우 본문 문장 중의 영어의 사용은 가능한 한 억제하고 국어를 사용하되, 영어를 사용하여야 할 경우는 모두 소문자로 쓴다. 다만 문장을 시작하는 곳에 영어 단어가 올 경우는 시작하는 첫 글자만 대문자로 한다.
-    * 단위는 앞의 수와 띄어 쓴다. 단 %(퍼센트)와 °(degree)는 앞의 수에 붙여 쓴다.
+    * 논문 작성을 국어로 할 경우 본문 문장 중의 영어의 사용은 가능한 한 억제하고 국어를 사용하되, 국어로 된 문장 내에 영문자로 단어를 표기하여야 하는 경우는 약어나 고유명사 등을 제외하면 모두 소문자로 쓴다. 다만 문장을 시작하는 곳에 영어 단어가 올 경우에는 시작하는 첫 글자만 대문자로 한다.
+    * 단위는 앞의 수와 띄어 쓴다. %(퍼센트)와 온도를 나타내는 °(degree)도 앞의 수와 띄어 쓴다. 단 각도를 나타내는 도, 분, 초는 3° 14' 15'처럼 앞의 수에 붙여 쓴다.
 * [Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit) - George Orwell (한글 번역 및 평: [1](https://web.archive.org/web/20201101073018/https://blog.daum.net/hjb009/8445446), [2](http://readme.kr/?page_id=12515), [3](https://brunch.co.kr/@alley334/116))
     * 다음은 '조지 오웰 산문선'에서 발췌하였음.
     1. 글에서 자주 본 은유, 직유, 기타 비유적 표현을 절대 사용하지 않는다.
