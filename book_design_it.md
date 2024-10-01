@@ -5,23 +5,17 @@
 나는
 
 - 소프트웨어 설계에 너무 많은 시간을 쓰는 걸 좋아하지 않고
-
 - 설계 문서의 포맷은 미니멀한 걸 좋아하고
-
 - 조직에 소프트웨어 아키텍트라는 포지션이나 역할이 따로 있는 것을 별로 좋아하지 않고
-
-- 사람들 모여서 무슨 카드같은 거 가지고 요란뻑적지근하게 무슨 액티비티같은 거 하는 것도, 한다면야 굳이 말리진 않지만 내가 일부러 하는 경우는 많지 않다.
+- 사람들 모여서 무슨 카드같은 거 가지고 요란뻑적지근하게 무슨 액티비티같은 거 하는 것도, 한다는 사람들을 굳이 말리진 않지만 내가 일부러 하는 경우는 많지 않다.
 
 
 
 그런데 이 책 '개발자에서 아키텍트로'(원서 제목은 "Design it! From Programmer to Software Architect")는 꽤 유용할 것 같다고 느꼈다. 왜냐하면
 
 - 여러 가지 템플릿, 액티비티, 간단한 프로세스 등이 많이 소개되어있어서, 필요할 때 적당한 걸 찾아 쓰기 좋다. 이 책은 툴박스 역할을 해 줄 것 같다.
-
 - 지나치게 현학적이지 않고 실용적인 편인 것 같다.
-
 - 비교적 최근의 소프트웨어 아키텍처 관련 이야기들을 잘 모아 놓은 것 같다.
-
 - 비교적 읽기 쉬운 편이다.
 
 
@@ -48,7 +42,7 @@
 
 -> 원문은 "Partitioning a system is important not just because it lets you develop a strategy for achieving quality attributes."
 
-다시 번역하면 "시스템을 쪼개는 것은, 품질 속성들을 달성하기 위한 전략을 수립하는 것을 용이하게 해 줄 뿐 아니라, 다른 중요한 좋은 것들을 가져다 줍니다."
+다시 번역하면 "시스템을 쪼개는 작업은, 원하는 품질 속성들을 달성하기 위한 전략 수립을 용이하게 해 줄 뿐 아니라, 다른 중요한 좋은 것들을 가져다 줍니다."
 
 
 
@@ -120,7 +114,7 @@
 
 ◆ p63 "결박된 합리성"
 
--> 원문은 "bounded rationality". 다음과 같이 쓰였다. "Herbert Simon coined the term bounded rationality to describe the theoretical barrier created by limits in time, money, skills, and knowledge that make rational design challenging for complex problems such as software architecture."
+-> 원문은 "bounded rationality". 이 말은 다음과 같이 쓰였다. "Herbert Simon coined the term bounded rationality to describe the theoretical barrier created by limits in time, money, skills, and knowledge that make rational design challenging for complex problems such as software architecture."
 
 번역으로는 "제한된 합리성" 정도가 어떨까?
 
@@ -146,9 +140,9 @@
 
 ◆ p72 "아래처럼 위험 구문으로 조건과 결과를 표로 만들어봤습니다."
 
--> 원문은 "Compare our <Condition>; might <Consequence> risk with these other, less effective risk statements:"
+-> 원문은 "Compare our \<Condition\>; might \<Consequence\> risk with these other, less effective risk statements:"
 
-이것은 정말 잘못 번역되었다. 원문에서는 이 문장보다 이전에 보여준 <Condition>; might <Consequence> 형식의 리스크 표현 방식을 이 문장 다음에 나오는 다른 형식의 리스크 표현 방식들과 비교하며 전자의 우수성을 강조하였다. 번역판에선 그것이 드러나지 않는다. 따라서 번역판에서 이 문장은 "우리가 만든 <조건> - <결과> 형태의 위험 문구에 비하면, 아래 표에 있는 위험 문구들은 별로 효과적이지 않음을 알 수 있습니다." 처럼 번역돼야 한다.
+이것은 정말 잘못 번역되었다. 원문에서는 이 문장보다 이전에 보여준 \<Condition\>; might \<Consequence\> 형식의 리스크 표현 방식을 이 문장 다음에 나오는 다른 형식의 리스크 표현 방식들과 비교하며 전자의 우수성을 강조하였다. 번역판에선 그것이 드러나지 않는다. 따라서 번역판에서 이 문장은 "우리가 만든 \<조건\> - \<결과\> 형태의 위험 문구에 비하면, 아래 표에 있는 위험 문구들은 별로 효과적이지 않음을 알 수 있습니다." 처럼 번역돼야 한다.
 
 
 
@@ -166,7 +160,7 @@
 
 ◆ p85 "다음은 일반적인 비즈니스 목표를 정리한 표입니다."
 
--> 원문은 "Here’s a summary of common business goal categories:" 이다. 그 다음에 나오는 표에는 구체적인 비즈니스 목표들의 예가 아니라 비즈니스 목표들의 종류(카테고리)들이 나온다. 그러므로 이 문장은 "다음은 자주 보이는 비즈니스 목표들의 유형들을 정리한 표입니다." 정도가 되어야 할 것 같다.
+-> 원문은 "Here’s a summary of common business goal categories:" 이다. 그 다음에 나오는 표에는 구체적인 비즈니스 목표들의 예가 아니라 비즈니스 목표들의 종류(카테고리)들이 나온다. 그러므로 이 문장은 "다음은 자주 보이는 비즈니스 목표들의 유형을 정리한 표입니다." 정도가 되어야 할 것 같다.
 
 표에 나오는 것들은 일반적이고 추상적인 것들인데, 잠시 후 원저자는 비즈니스 목표가 구체적이고 측정 가능해야 한다고 주장한다. 그러므로 표에 나오는 것들을 그냥 '비즈니스 목표'라 하면 모순이 발생한다.
 
@@ -184,7 +178,7 @@
 
 ◆ p98 "5.3 기능 요구사항 찾아내기"
 
--> 소챕터 제목이 잘못되었다. 이 소챕터에선 기능 요구사항을 다 찾아내라는 얘기를 하는 게 아니고, *영향력 있는* 기능 요구사항들을 뽑아내라는 얘기를 하고 있다. 그러므로 소챕터 제목은 "영향력 있는 기능 요구사항 뽑아내기" 또는 "기능 요구사항의 종류를 분간하기" 정도가 되어야 한다.
+-> 소챕터 제목이 잘못되었다. 이 소챕터에선 기능 요구사항을 다 찾아내라는 얘기를 하는 게 아니고, **영향력 있는** 기능 요구사항들을 뽑아내라는 얘기를 하고 있다. 그러므로 소챕터 제목은 "영향력 있는 기능 요구사항 뽑아내기" 또는 "기능 요구사항의 종류를 분간하기" 정도가 되어야 한다.
 
 
 
@@ -196,7 +190,7 @@
 
 ◆ p98 "비슷한 문제끼리 묶은 후 일반적인 요구사항을 분류합니다."
 
--> 원문은 "Identify general classes of requirements that represent the same type of architectural problem."이다. 이것은 "요구 사항들 중 공통된 설계상 문제와 관련된 것들을 하나의 클래스로 묶습니다." 처럼 번역돼야 한다.
+-> 원문은 "Identify general classes of requirements that represent the same type of architectural problem."이다. 이것은 "요구 사항들 중 공통된 아키텍처 문제와 관련된 것들을 한 클래스로 묶습니다. 이런 식으로 요구 사항들을 여러 클래스들로 분류합니다." 처럼 번역돼야 한다.
 
 
 
@@ -204,7 +198,7 @@
 
 -> 원문은 "For each problem class identified, walk through the notional architecture and show how to achieve each requirement group. If it is not immediately obvious how you would implement the feature based on the known coarse-grained requirements, it might have architectural significance."
 
-다시 번역해 보면 "앞에서 찾아낸 요구사항 클래스들 각각에 대해, 앞서 작성해 본 아키텍처가 그 클래스의 문제를 해결할 수 있는지 확인합니다. 그 큰 덩어리로 묶여 있는 요구사항들을 위한 기능을 어떻게 구현할지 생각해 보세요. 만약 구현 방법이 즉시 명확히 떠오르지 않는다면, 그 기능은 아키텍처 설계에 중요한 영향을 미치는 것일 수 있습니다."
+다시 번역해 보면 "앞에서 찾아낸 요구사항 클래스들 각각에 대해, 앞서 작성해 본 아키텍처가 그 클래스의 문제를 해결할 수 있는지 확인합니다. 큰 덩어리로 묶여 있는 그 요구사항들을 만족시키기 위한 기능을 어떻게 구현할지 생각해 보세요. 만약 구현 방법이 즉시 명확히 떠오르지 않는다면, 그 기능은 아키텍처 설계에 중요한 영향을 미치는 것일 수 있습니다."
 
 
 
@@ -324,13 +318,13 @@ Reference any influential functional requirements in your architecture documenta
 
 우선 제목을 "결정은 가장 책임이 큰 순간까지 미룬다"로 바꿔야 한다.
 
-그리고 원문에는 the most responsible moment라는 개념이 소개돤 블로그 글이 각주로 링크되어 있는데 번역본에는 그게 없다. 이 블로그 글을 대충이라도 보면 이해에 도움이 된다. 글로의 링크는 http://wirfs-brock.com/blog/2011/01/18/agile-architecture-myths-2-architecture-decisions-should-be-made-at-the-last-responsible-moment/ 이다.
+그리고 영문 원문에는 the most responsible moment라는 개념이 소개돤 블로그 글이 각주로 링크되어 있는데 번역본에는 그게 없다. 이 블로그 글을 대충이라도 보면 이해에 도움이 된다. 글로의 링크는 http://wirfs-brock.com/blog/2011/01/18/agile-architecture-myths-2-architecture-decisions-should-be-made-at-the-last-responsible-moment/ 이다.
 
-또한 "이 책에서는 ... 미치는 때를 의미합니다."는 다시 번역하면 "우리는 책임있는 최후의 순간에 대해 생각하기보다는, '가장 책임이 큰 순간(the most responsible moment)'에 설계에 대한 의사 결정을 하기를 원합니다. 가장 책임이 큰 순간이란, 설계에 대한 어떤 의사 결정이 소프트웨어 시스템에 좋은 영향을 가장 크게 미칠 순간을 말합니다."
+또한 "이 책에서는 ... 미치는 때를 의미합니다."는 다시 번역하면 "우리는 '책임있는 최후의 순간'에 대해 생각하기보다는, '가장 책임이 큰 순간(the most responsible moment)'에 설계에 대한 의사 결정을 하기를 원합니다. 가장 책임이 큰 순간이란, 설계에 대한 어떤 의사 결정이 소프트웨어 시스템에 좋은 영향을 가장 크게 미칠 순간을 말합니다."
 
 그 다음 문단은 잘 이해가 되지 않는다 (마지막 문장은 문제 없으니 제외하고). 일단 내가 이해한 바에 따라 다시 번역해보면
 
-"이상적으로는, 책임있는 최후의 순간이 곧 의사결정을 위한 가장 책임이 큰 순간이어야 할 것입니다. 하지만 실제로는, 가장 책임이 큰 순간 뒤에 다른 일들을 할 시간이 좀 남습니다. 우리가 컨트롤할 수 없는 외부 디펜던시, 합의 이루기, 교육, 그리고 설계 검증 등의 일 말입니다."
+"이상적으로는, '책임있는 최후의 순간'이 곧 의사결정을 위한 '가장 책임이 큰 순간'이어야 할 것입니다. 하지만 실제로는, '가장 책임이 큰 순간' 뒤에 다른 일들을 할 시간이 좀 남습니다. 우리가 컨트롤할 수 없는 외부 디펜던시, 합의 이루기, 교육, 그리고 설계 검증 등의 일 말입니다."
 
 
 
@@ -338,7 +332,7 @@ Reference any influential functional requirements in your architecture documenta
 
 -> 원문은 "Even if we can identify the most responsible moment to decide, that doesn’t mean we’ll always have enough information to make a good decision. Luckily we have a cheat to help us avoid catastrophes when this situation arises. We can move things likely to change out of the architecture."
 
-다시 번역하면 "의사결정을 위한 가장 책임이 큰 순간을 찾아낼 수 있더라도, 좋은 의사결정을 내리기에 충분한 정보를 가지고 있지는 못할 수도 있습니다. 그런 경우에도 파국을 피하는 묘수가 있습니다. 나중에 바뀔 수도 있는 것들은, 아키텍처 밖으로 옮겨 버리는 것입니다."
+다시 번역하면 "의사결정을 위한 '가장 책임이 큰 순간'을 찾아낼 수 있더라도, 좋은 의사결정을 내리기에 충분한 정보를 가지고 있지는 못할 수도 있습니다. 그런 경우에도 파국을 피하는 묘수가 있습니다. 나중에 바뀔 수도 있는 것들은 아키텍처 밖으로 옮겨 버리는 것입니다."
 
 여기까지 생각하고 보니, '책임있는 최후의 순간'은 '최후 책임 시점', '가장 책임이 큰 순간'은 '최대 책임 시점'으로 모두 바꾸면 좋겠다.
 
@@ -350,7 +344,7 @@ Reference any influential functional requirements in your architecture documenta
 
 그 아래의 두 문장을 다시 번역하면
 
-"나중에 쉽게 바꿀 수 있는 것에 대한 의사결정이라면, 아키텍처 측면에서 걱정거리가 아닐 것입니다. 그러므로, 아키텍처를 설계할 때에는 가능하면, 나중에 바뀔 법한 의사결정은 상세 설계를 하는 사람들(downstream designer)에게 맡길 수 있도록 설계해 보세요."
+"어떤 의사결정이 나중에 쉽게 바꿀 수 있는 것에 대한 의사결정이라면, 이는 아키텍처 측면에서 걱정거리가 아닐 것입니다. 그러므로, 아키텍처를 설계할 때에는 가능하면, 나중에 바뀔 법한 의사결정은 상세 설계를 하는 사람들(downstream designer)에게 맡길 수 있도록 설계해 보세요."
 
 
 
@@ -394,13 +388,13 @@ Writing code is a fantastic way to learn about the system and how to design it."
 
 ◆ p147 "테스트를 거치면서 ... 파악할 수 있습니다."
 
--> "테스트를 통해, 우리는 이 모델 안에서 질문의 답을 찾게 되거나 또는 우리의 이해와 현실 간에 차이가 있음을 알게 됩니다."
+-> "테스트를 통해, 우리는 이 모델 안에서 질문의 답을 찾게 될 수도 있고 또는 우리의 이해와 현실 간에 차이가 있음을 깨닫게 될 수도 있습니다."
 
 
 
 ◆ p147 "답을 찾으면 ... 생각할 수 있습니다."
 
--> "답을 찾았다면 기존의 모델에 대한 믿음이 더 강화될 것이고, 차이가 있었다면 모델을 어떻게 바꿔야 그 차이가 메워질지를 생각해 내야 할 것입니다."
+-> "만약 답을 찾았다면 기존의 모델에 대한 믿음이 더 강화될 것이고, 만약 차이가 있었다면 모델을 어떻게 바꿔야 그 차이가 메워질지를 생각해 내야 할 것입니다."
 
 
 
@@ -436,11 +430,11 @@ Writing code is a fantastic way to learn about the system and how to design it."
 
 이해하기 어려운 번역. 원문은 "Module structures are the simplest to see in the code but often the most difficult to enforce. In most modern programming languages, we can enforce an allowed to use relation by limiting access to specific modules. If that fails, it’s usually possible to distribute modules as a library with decent documentation."
 
-다시 번역해 보면 "모듈 구조는 코드 상에서 가장 쉽게 볼 수 있지만, 강제하기는 가장 어려운 구조일 때가 많다. 현대의 프로그래밍 언어들 대다수는 모듈들에 대한 액세스를 제한하는 방식으로 '사용할 수 있음' 관계를 강제할 수 있다. 그게 안 되는 경우라면, 보통 모듈을 잘 작성된 문서와 함께 라이브러리 형태로 배포할 수 있다."
+다시 번역해 보면 "모듈 구조는 코드 상에서 가장 쉽게 볼 수 있지만, 강제하기는 가장 어려운 구조일 때가 많다. 현대의 프로그래밍 언어들 대다수는 모듈들에 대한 액세스를 제한하는 방식으로 '사용할 수 있음' 관계를 강제할 수 있다. 그게 안 되는 경우라면, 보통은 모듈을 잘 작성된 문서와 함께 라이브러리 형태로 배포할 수 있다."
 
 
 
-◆ p156 "할당 구조에서 코드로 의도를 표현하기란 매우 어렵슺니다."
+◆ p156 "할당 구조에서 코드로 의도를 표현하기란 매우 어렵습니다."
 
 -> "할당 구조에 들어 있는 의도를 코드로 표현하는 것은 예전엔 매우 어려운 일이었습니다."
 
@@ -482,7 +476,7 @@ Writing code is a fantastic way to learn about the system and how to design it."
 
 ◆ p184 "매핑 뷰는 이해관계자 간의 ... 완벽하게 부합합니다."
 
--> "매핑은 서로 다른 관심사를 가진 이해관계자들을 연결해 줍니다. 업무 할당 뷰는 스케줄이나 충원 계획을 만드는 프로젝트 마니저의 니즈에 완벽하게 부합합니다."
+-> "매핑은 서로 다른 관심사를 가진 이해관계자들을 연결해 줍니다. 업무 할당 뷰는 스케줄이나 충원 계획을 만드는 프로젝트 매니저의 니즈에 완벽하게 부합합니다."
 
 
 
@@ -490,7 +484,7 @@ Writing code is a fantastic way to learn about the system and how to design it."
 
 -> 원문은 "This tiny smidge of knowledge enables team self-organization and helps developers prioritize work with the product manager’s needs in mind. Now you’re empathizing with stakeholders!"
 
-다시 번역하면 "이런 작은 지식들 덕분에, 팀이 스스로 구조를 만들게 되기도 하고, 개발자들이 제품 관리자의 요구를 고려해서 일의 우선순위를 정하는 게 용이해지기도 합니다. 이제 이해관계자들이 공감을 하게 되었어요!"
+다시 번역하면 "이런 작은 지식들 덕분에, 팀이 스스로 구조를 만들게 되기도 하고, 개발자들이 제품 관리자의 요구를 고려해서 일의 우선순위를 정하는 게 용이해지기도 합니다. 이제 여러분은 이해관계자들과 공감을 하게 되었어요!"
 
 
 
