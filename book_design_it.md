@@ -142,7 +142,7 @@
 
 -> 원문은 "Compare our \<Condition\>; might \<Consequence\> risk with these other, less effective risk statements:"
 
-이것은 정말 잘못 번역되었다. 원문에서는 이 문장보다 이전에 보여준 \<Condition\>; might \<Consequence\> 형식의 리스크 표현 방식을 이 문장 다음에 나오는 다른 형식의 리스크 표현 방식들과 비교하며 전자의 우수성을 강조하였다. 번역판에선 그것이 드러나지 않는다. 따라서 번역판에서 이 문장은 "우리가 만든 \<조건\> - \<결과\> 형태의 위험 문구에 비하면, 아래 표에 있는 위험 문구들은 별로 효과적이지 않음을 알 수 있습니다." 처럼 번역돼야 한다.
+이것은 정말 잘못 번역되었다. 원문에서는, 이 문장보다 이전에 보여준 \<Condition\>; might \<Consequence\> 형식의 리스크 표현 방식을, 이 문장 다음에 나오는 다른 형식의 리스크 표현 방식들과 비교하며, 전자의 우수성을 강조하였다. 번역판에선 그것이 드러나지 않는다. 따라서 번역판에서 이 문장은 "우리가 만든 \<조건\> - \<결과\> 형태의 위험 문구에 비하면, 아래 표에 있는 위험 문구들은 별로 효과적이지 않음을 알 수 있습니다." 처럼 번역돼야 한다.
 
 
 
@@ -484,7 +484,7 @@ Writing code is a fantastic way to learn about the system and how to design it."
 
 -> 원문은 "This tiny smidge of knowledge enables team self-organization and helps developers prioritize work with the product manager’s needs in mind. Now you’re empathizing with stakeholders!"
 
-다시 번역하면 "이런 작은 지식들 덕분에, 팀이 스스로 구조를 만들게 되기도 하고, 개발자들이 제품 관리자의 요구를 고려해서 일의 우선순위를 정하는 게 용이해지기도 합니다. 이제 여러분은 이해관계자들과 공감을 하게 되었어요!"
+다시 번역하면 "이런 작은 지식들 덕분에, 팀이 스스로 조직 구조를 만들게 되기도 하고, 개발자들이 제품 관리자의 요구를 고려해서 일의 우선순위를 정하는 게 용이해지기도 합니다. 이제 여러분은 이해관계자들과 공감을 하게 되었어요!"
 
 
 
