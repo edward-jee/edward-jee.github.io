@@ -313,7 +313,16 @@
     * The New York Times Magazine's article about this: [link](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) / [cached (no sign-in)](attachments/What%20Google%20Learned%20From%20Its%20Quest%20to%20Build%20the%20Perfect%20Team%20-%20The%20New%20York%20Times.pdf)
         * The article is long. You can start from "But what was confusing was that not all the good teams appeared to behave in the same ways."
 * Google's Project Oxygen - Behaviours of best managers
-    * [A blog post](https://web.archive.org/web/20230913023103/https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/)
+    * [A blog post](https://web.archive.org/web/20230913023103/https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/) (*NOTE: The links in this blog post are broken. Below are the working links.)
+        * [Project Oxygen](https://rework.withgoogle.com/en/guides/managers-identify-what-makes-a-great-manager#learn-about-googles-manager-research)
+        * [employee survey](https://rework.withgoogle.com/en/guides/analytics-run-an-employee-survey/)
+        * [Manager Feedback Surveys](https://rework.withgoogle.com/en/guides/managers-give-feedback-to-managers/#try-googles-manager-feedback-survey)
+        * [refreshed Manager Feedback Survey](https://rework.withgoogle.com/en/guides/managers-give-feedback-to-managers/#try-googles-manager-feedback-survey)
+        * [research on psychological safety](https://rework.withgoogle.com/en/guides/understanding-team-effectiveness/#foster-effective-team-behaviors)
+            * Originally the 1st paragraph is about psychological safety, but in the renewed version, it's replaced to "a strong team culture".
+            * Originally '“introduced the construct of "team psychological safety”' had a hyperlink to https://www.jstor.org/stable/2666999 .
+        * [unbiasing efforts](https://web.archive.org/web/20230923140350/https://rework.withgoogle.com/subjects/unbiasing/)
+        * [importance of establishing clear performance expectations](https://news.gallup.com/businessjournal/186164/employees-don-know-expected-work.aspx)
     * [Guides](https://rework.withgoogle.com/en/subjects/managers/) (한국어로 된 해석: [1회](https://infuture.kr/1642), [2회](https://infuture.kr/1643) / cached: [1회](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EB%A6%AC%EB%8D%94%EC%8B%AD_%201.%20%ED%9B%8C%EB%A5%AD%ED%95%9C%20%EA%B4%80%EB%A6%AC%EC%9E%90%EB%8A%94%20%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80_.pdf), [2회](attachments/%EC%9D%B8%ED%93%A8%EC%B2%98%EC%BB%A8%EC%84%A4%ED%8C%85%20%26%20%EC%9C%A0%EC%A0%95%EC%8B%9D%20__%20%EA%B5%AC%EA%B8%80%EC%9D%98%20%EB%A6%AC%EB%8D%94%EC%8B%AD_%202.%20%ED%8C%80%EC%9B%90%EA%B3%BC%20%ED%95%A8%EA%BB%98%20%EB%B9%84%EC%A0%84%EC%9D%84%20%EC%88%98%EB%A6%BD%ED%95%98%EA%B3%A0%20%EA%B3%B5%EC%9C%A0%ED%95%98%EB%9D%BC.pdf))
     * [관리자를 위한 피드백](https://edward-jee.github.io/attachments/%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%ED%94%BC%EB%93%9C%EB%B0%B1.pdf) (Google이 공개한 [Manager Feedback Survey](https://rework.withgoogle.com/en/guides/managers-give-feedback-to-managers/#try-googles-manager-feedback-survey) form을 번역하고 일부 수정한 것)
 * [Blameless Post Mortems](https://www.bringthedonuts.com/newsletter/blameless-post-mortems.html) - Ken Norton
