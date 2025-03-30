@@ -10,9 +10,9 @@ To me, this talk sounds
 a little bit abstract and idealistic. And a little bit political. But it could
 be a good hook that encourages people to try OKRs. For those who seriously want
 to start using OKR, they can start from [this blog post](
-https://rework.withgoogle.com/blog/how-OKRs-fuel-innovation/) and [this guide](
-https://rework.withgoogle.com/guides/set-goals-with-okrs/) thankfully published
-by Google.
+https://web.archive.org/web/20230522100446/https://rework.withgoogle.com/blog/how-OKRs-fuel-innovation/)
+and [this guide](https://rework.withgoogle.com/en/guides/set-goals-with-okrs/)
+thankfully published by Google.
 
 There's a Korean caption for the TED video. To me, however, the Korean caption
 was somewhat hard to understand. So I tried rewriting the caption so that it
