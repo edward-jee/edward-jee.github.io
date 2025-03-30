@@ -365,12 +365,12 @@
         * [Product Management: Product Discovery Phase](https://medium.com/@tambolikunal13/product-management-product-discovery-phase-7b97539d5ca7)
 * Ken Norton
     * [How to Hire a Product Manager](https://www.bringthedonuts.com/essays/productmanager.html) (A famous classic that explains what a PM is) (10 yr anniversary: [link](https://www.bringthedonuts.com/essays/happy-10th-birthday-to-hthapm.html)) (한글 번역 1: [link](https://blog.naver.com/careerinspo/221976711074)) (한글 번역 2: [link](https://webuildproduct.com/%EC%96%B4%EB%96%A4-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%A5%BC-%EC%B1%84%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-45396988f6a0))
-    * [What Makes A Strong Product Culture?](https://newsletter.bringthedonuts.com/p/what-makes-a-strong-product-culture)
+    * [What Makes A Strong Product Culture?](https://www.bringthedonuts.com/essays/what-makes-a-strong-product-culture/)
     * [10x Not 10%](https://www.bringthedonuts.com/essays/10x-not-10-percent.html)
     * [How do you make sure your new PM is successful?](https://www.bringthedonuts.com/newsletter/how-do-you-make-sure-a-new-pm-is-successful.html)
     * [What to Do in Your First 30 Days in a New Role](https://www.bringthedonuts.com/essays/what-to-do-in-your-first-30-days-as-product-manager.html) (한글 번역: [첫 30일 동안 PM이 해야 할 12가지](https://brunch.co.kr/@hj-kang/4)) (실행 후기: [link](https://medium.com/@alishadle_80244/i-tested-ken-nortons-article-what-to-do-in-your-first-30-days-and-this-is-what-i-learned-b99286627474))
-    * [What I wished I’d known back when I started](https://newsletter.bringthedonuts.com/p/reflecting-on-a-career-in-product)
-    * [The Tools Don't Matter](https://newsletter.bringthedonuts.com/p/the-tools-dont-matter)
+    * [What I wished I’d known back when I started](https://www.bringthedonuts.com/essays/reflecting-on-a-career-in-product/)
+    * [The Tools Don't Matter](https://www.bringthedonuts.com/essays/the-tools-dont-matter/)
 * Lenny Rachitsky
     * [My favorite product management templates](https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37)
     * [The Best of Lenny's Newsletter](https://www.lennysnewsletter.com/p/the-best-of-lennys-newsletter)
@@ -433,7 +433,7 @@
         * 목표 달성시 급여가 얼마 오른다더라 하는 식의 불필요한 디테일에 집착하지 않는 문화
         * 주기적인 1대1 미팅 등으로 직원에게 올바른 동기 부여를 하는 문화
 * [Are you doing OKRs right?](https://medium.com/range/are-you-doing-okrs-right-5ca1fa1e53d2) - Braden Kowitz
-* [The Tools Don't Matter](https://newsletter.bringthedonuts.com/p/the-tools-dont-matter) - Ken Norton
+* [The Tools Don't Matter](https://www.bringthedonuts.com/essays/the-tools-dont-matter/) - Ken Norton
 
 [\[top\]](#table-of-contents)
 
