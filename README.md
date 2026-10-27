@@ -1,4 +1,4 @@
-Edward Jee's GitHub Pages
+Spike (Edward) Jee's GitHub Pages
 =========================
 * [Favorite reading materials](reading_materials.md)
 * [John Doerr's speech about OKRs (Korean translation)](okr_speech_translation.md)
