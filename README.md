@@ -7,3 +7,4 @@ Spike (Edward) Jee's GitHub Pages
 * [책 '개발자에서 아키텍트로'에 대한 메모](book_design_it.md)
 * [The Last Stargazers](last_stargazers.md)
 * [30분짜리 pstack 실습](pstack_30min_codelab.md)
+* [Anthropic의 소스 코드 관리 도구 "Scion"](anthropic_scion.md)
