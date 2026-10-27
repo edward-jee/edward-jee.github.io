@@ -8,3 +8,4 @@ Spike (Edward) Jee's GitHub Pages
 * [The Last Stargazers](last_stargazers.md)
 * [30분짜리 pstack 실습](pstack_30min_codelab.md)
 * [Anthropic의 소스 코드 관리 도구 "Scion"](anthropic_scion.md)
+* [고물 컴퓨터로 LLM 서빙 배우기](llm_serving_tutorial.md)
