@@ -10,3 +10,4 @@ Spike (Edward) Jee's GitHub Pages
 * [Anthropic의 소스 코드 관리 도구 "Scion"](anthropic_scion.md)
 * [고물 컴퓨터로 LLM 서빙 배우기](llm_serving_tutorial.md)
 * [클로드 코워크를 1주 반 만에 만든 앤트로픽 리드가 클로드에게 일을 맡기는 법](how-to-use-claude.md)
+* ["the true reason C++ always wins" 내용 설명](cpp-wins.md)
